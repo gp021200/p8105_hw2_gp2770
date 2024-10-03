@@ -2,7 +2,108 @@
 title: "p8105_hw2_gp2770"
 author: "Gokul Pareek"
 date: "2024-10-03"
-output: html_document
+output: github_document
 ---
 
 I'm an R Markdown document!
+
+# Problem 1
+
+Reading and Cleaning the Data
+
+```{r}
+library (tidyverse)
+
+nyc_transit_data <- read_csv("./data/NYC_Transit_Subway_Entrance_And_Exit_Data.csv",col_types= cols(Route8 = "c", Route9 = "c",Route10 = "c",Route11 = "c")) %>%   janitor::clean_names() %>%
+  select(line, station_name, station_latitude, station_longitude,route1:route11, entry, vending, entrance_type, ada) %>% 
+  mutate(entry = ifelse(entry == "YES", TRUE, FALSE))
+
+nyc_transit_data
+
+```
+
+The resulting dataset contains information about each entrance and exit for each subway station in NYC, including details such as the subway line, station name, geographic coordinates, routes served, entrance type, and ADA compliance status. Till now, I have standardized the variable names by converting them to lower snake case, selected and retained the relevant variables, and recoded the entry variable from a character class with "YES" and "NO" values to a logical class with "TRUE" and "FALSE" values. The dataset currently has 1,868 rows and 19 columns. However, the data is not yet tidy, as the multiple columns for route numbers (routes 1 through 11) represent values themselves, rather than being captured as a single variable. 
+
+Finding the number of distinct stations
+
+```{r}
+
+nrow(distinct(nyc_transit_data, line, station_name))
+
+```
+
+There are 465 distinct stations.
+
+ADA compliant stations
+
+```{r}
+
+nyc_transit_data %>% 
+  filter(ada == TRUE) %>% 
+  distinct(line, station_name) %>% 
+  nrow()
+
+```
+
+Out of the 465 distinct stations, 84 stations are ADA compliant. 
+
+Proportion of station entrances/exits without vending that allow entrance
+
+```{r}
+
+without_vending <- nyc_transit_data %>% 
+                    filter(vending == "NO") %>%
+                    filter(entry == TRUE) %>%  
+                    nrow()
+
+with_vending <- nyc_transit_data %>% 
+                  filter(vending == "NO") %>%
+                  nrow()
+
+without_vending / with_vending
+
+```
+
+0.377 is the proportion of station entrances/exits without vending that allow entrances. 
+
+Reformatting the data to make route number and route name distinct variables
+
+```{r}
+
+nyc_transit_reformat_data <- nyc_transit_data %>%
+  pivot_longer(route1:route11, 
+               names_to = "route_number", 
+               values_to = "route_name")
+
+nyc_transit_reformat_data
+
+```
+
+Distinct stations that serve the A train
+
+```{r}
+
+nyc_transit_reformat_data %>% 
+  filter(route_name == "A") %>% 
+  distinct(line, station_name) %>% 
+  nrow()
+
+```
+
+60 distinct stations serve the A train.
+
+A train serving stations that are ADA compliant
+
+```{r}
+
+nyc_transit_reformat_data %>% 
+  filter(ada == TRUE) %>%  
+  filter(route_name == "A") %>% 
+  distinct(line, station_name) %>% 
+  nrow()
+```
+
+Of the 60 stations that serve the A train, 17 stations are ADA compliant.
+
+# Problem 2
+
