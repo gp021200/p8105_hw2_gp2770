@@ -107,3 +107,127 @@ Of the 60 stations that serve the A train, 17 stations are ADA compliant.
 
 # Problem 2
 
+Reading and Cleaning the Mr. Trash Wheel sheet
+
+```{r}
+
+library(readxl)
+
+mr_trash_wheel_data <- read_excel("./data/202409 Trash Wheel Collection Data.xlsx",                           sheet = "Mr. Trash Wheel",range =  cell_cols("A:N"), 
+                        col_names = TRUE, skip = 1) %>%
+  janitor::clean_names() %>%
+  rename(
+    collection_month = month,
+    collection_year = year,
+    plastic_bottles_collected = plastic_bottles,
+    polystyrene_collected = polystyrene,
+    cigarette_butts_collected = cigarette_butts,
+    sports_balls_collected = sports_balls,
+    glass_bottles_collected = glass_bottles,
+    wrappers_collected = wrappers,
+    plastic_bags_collected = plastic_bags
+    )%>%
+  filter(!is.na(dumpster)) %>%
+  mutate(
+    sports_balls_collected = as.integer(round(sports_balls_collected)),
+    trash_wheel = "Mr. Trash Wheel"
+  )
+
+```
+
+Reading and Cleaning the Professor Trash Wheel
+
+```{r}
+
+professor_trash_wheel_data <-  read_excel("./data/202409 Trash Wheel Collection Data.xlsx", sheet = "Professor Trash Wheel", range = cell_cols("A:M"), col_names = TRUE, skip = 1) %>%
+  janitor::clean_names() %>%
+  rename(
+    collection_month = month,
+    collection_year = year,
+    plastic_bottles_collected = plastic_bottles,
+    polystyrene_collected = polystyrene,
+    cigarette_butts_collected = cigarette_butts,
+    glass_bottles_collected = glass_bottles,
+    wrappers_collected = wrappers,
+    plastic_bags_collected = plastic_bags
+    )%>%
+  filter(!is.na(dumpster)) %>%
+  mutate(trash_wheel = "Professor Trash Wheel"
+  )
+
+```
+
+Reading and Cleaning the Gwynnda Trash Wheel
+
+```{r}
+
+gwynnda_trash_wheel_data <-  read_excel("./data/202409 Trash Wheel Collection Data.xlsx", sheet = "Gwynnda Trash Wheel", range = cell_cols("A:L"), col_names = TRUE, skip = 1) %>%
+  janitor::clean_names() %>%
+  rename(
+    collection_month = month,
+    collection_year = year,
+    plastic_bottles_collected = plastic_bottles,
+    polystyrene_collected = polystyrene,
+    cigarette_butts_collected = cigarette_butts,
+    wrappers_collected = wrappers,
+    plastic_bags_collected = plastic_bags
+    )%>%
+  filter(!is.na(dumpster)) %>%
+  mutate(trash_wheel = "Gwynnda Trash Wheel"
+  )
+
+```
+
+Combining the three datasets
+
+```{r}
+
+mr_trash_wheel_data <- mr_trash_wheel_data %>%
+  mutate(collection_year = as.character(collection_year))
+
+professor_trash_wheel_data <- professor_trash_wheel_data %>%
+  mutate(collection_year = as.character(collection_year))
+
+gwynnda_trash_wheel_data <- gwynnda_trash_wheel_data %>%
+  mutate(collection_year = as.character(collection_year))
+
+combined_trash_wheel_data <- bind_rows(mr_trash_wheel_data, 
+                                       professor_trash_wheel_data, 
+                                       gwynnda_trash_wheel_data)
+
+combined_trash_wheel_data
+
+```
+
+The combined Trash Wheel dataset contains a total of `r nrow(combinedtrash_wheel_data)` observations, consolidating information from three different Trash Wheels: Mr. Trash Wheel, Professor Trash Wheel, and Gwynnda. Key variables include `collection_month`, `collection_year`, `weight_tons` which is the weight of trash collected by each dumpster, and waste types like `cigarette_butts_collected` and `plastic_bags_collected`.
+
+Total weight of trash collected by Professor Trash Wheel
+
+```{r}
+
+total_professor_trash_wheel_weight <- combined_trash_wheel_data %>%
+  filter(trash_wheel == "Professor Trash Wheel") %>%
+  pull(weight_tons) %>%
+  sum(na.rm = TRUE)
+
+total_professor_trash_wheel_weight
+
+```
+
+The total weight of trash collected by Professor Trash Wheel was 246.74 tons.
+
+Total number of cigarette butts collected by Gwynnda in June of 2022
+
+```{r}
+
+total_cigarette_butts_gwynnda_june_2022 <- combined_trash_wheel_data %>%
+  filter(trash_wheel == "Gwynnda Trash Wheel" & collection_month == "June" & collection_year == 2022) %>%
+  pull(cigarette_butts_collected) %>%
+  sum(na.rm = TRUE)
+
+total_cigarette_butts_gwynnda_june_2022
+
+```
+
+The total number of cigarette butts collected by Gwynnda in June of 2022 was 18120.
+
