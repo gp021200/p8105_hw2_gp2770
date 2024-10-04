@@ -1,0 +1,1167 @@
+series,episode,baker,baker_last_name,baker_age,baker_occupation,hometown,signature_bake,technical,show_stopper,result
+1,1,Annetha,Mills,30,Midwife,Essex,Light Jamaican Black Cakewith Strawberries and Cream,2,"Red, White & Blue Chocolate Cake with Cigarellos, Fresh Fruit, and Cream",IN
+1,1,David,Chambers,31,Entrepreneur,Milton Keynes,Chocolate Orange Cake,3,"Black Forest Floor Gateauxwith Moulded Chocolate Leaves, Fallen Fruitand Chocolate Mushrooms Moulded from eggs",IN
+1,1,Edd,Kimber,24,Debt collector for Yorkshire Bank,Bradford,Caramel Cinnamon and Banana Cake,1,N/A,IN
+1,1,Jasminder,Randhawa,45,Assistant Credit Control Manager,Birmingham,Fresh Mango and Passion Fruit Hummingbird Cake,NA,N/A,IN
+1,1,Jonathan,Shepherd,25,Research Analyst,St Albans,Carrot Cake with Lime and Cream Cheese Icing,9,Three Tiered White and Dark Chocolate with Almond and Cherry,IN
+1,1,Louise,Brimelow,44,Police Officer,Manchester,Carrot and Orange Cake,NA,"Never Fail Chocolate Sponge Cake,with Fresh Fruit, White & Chocolate Cigarello Border",IN
+1,1,Miranda,Browne,37,Food buyer for Marks & Spencer,"Midhurst, West Sussex","Triple Layered Brownie Meringue Cake
+with Raspberry Cream",8,Three Tiered Chocolate Fudge Cake  with Handmade Chocolate Button Decorations,IN
+1,1,Ruth,Clemens,31,Retail manager/Housewife,"Poynton, Cheshire",Three Tiered Lemon Drizzle Cakewith Fresh Cream and freshly made Lemon Curd,NA,Classic Chocolate Sponge wrapped in a Chocolate Collartopped with Handmade White and Dark Chocolate Truffles,IN
+1,1,Lea,Harris,51,Retired,"Midlothian, Scotland",Cranberry and Pistachio Cakewith Orange Flower Water Icing,10,Raspberries and Cream filled Chocolatewith Chocolate-dipped Fresh Fruit,OUT
+1,1,Mark,Whithers,48,Bus Driver,South Wales,Sticky Marmalade Tea Loaf,NA,Heart-shaped Chocolate and Beetroot Cake with Store-Bought silver chocolate hearts and chocolate red and white roses.,OUT
+1,2,David,Chambers,31,Entrepreneur,Milton Keynes,Cheddar Cheese and Fresh Rosemary Biscuits,8,Choux Pastry Swans  Chocolate Profiteroles,IN
+1,2,Edd,Kimber,24,Debt collector for Yorkshire Bank,Bradford,Oatmeal Raisin Cookie,6,Pink Macarons,IN
+1,2,Jasminder,Randhawa,45,Assistant Credit Control Manager,Birmingham,Millionaires' Shortbread,2,Meringues with Chocolate and Space DustCoffee flavoured Eclairs,IN
+1,2,Jonathan,Shepherd,25,Research Analyst,St Albans,Honey and Candied Ginger Cookies,1,Meringues with Whiskey Cream,IN
+1,2,Miranda,Browne,37,Food buyer for Marks & Spencer,"Midhurst, West Sussex",Fresh Vanilla Biscuits with Royal Icing,3,Pistachio Macarons,IN
+1,2,Ruth,Clemens,31,Retail manager/Housewife,"Poynton, Cheshire",Peanut Shortbread withSalted Peanut Caramel,5,Almond Macaron with Violet ButtercreamRaspberries and Cream Eclairs,IN
+1,2,Annetha,Mills,30,Midwife,Essex,Rose Petal Shortbread,7,Pink Swirl Macarons / Eclairs,OUT
+1,2,Louise,Brimelow,44,Police Officer,Manchester,Stained Glass Window Shortbread,4,"Strawberry, Mint, and Cream Meringues  Chocolate Eclairs / Orange, Yellow and Pink Macarons",OUT
+1,2,Lea,Harris,51,Retired,"Midlothian, Scotland",NA,NA,NA,NA
+1,2,Mark,Whithers,48,Bus Driver,South Wales,NA,NA,NA,NA
+1,3,David,Chambers,31,Entrepreneur,Milton Keynes,Chilli Bread,4,"Walnut and Seed Roll
+Red Berry and Almond Bun",IN
+1,3,Edd,Kimber,24,Debt collector for Yorkshire Bank,Bradford,Olive Bread,1,Tomato and Mozzarella,IN
+1,3,Jasminder,Randhawa,45,Assistant Credit Control Manager,Birmingham,Focaccia,5,"Mango and Sultana Buns
+Pan au Chocolat with Mars Bars
+Tutti Frutti Wheel with Jelly Tots",IN
+1,3,Miranda,Browne,37,Food buyer for Marks & Spencer,"Midhurst, West Sussex",Walnut and Apricot Bread,3,"Lemon Iced Buns
+Chocolate and Orange Buns",IN
+1,3,Ruth,Clemens,31,Retail manager/Housewife,"Poynton, Cheshire",Maple and Pecan Bread,2,"Chocolate and Orange Panettone
+Cranberry Bagels",IN
+1,3,Jonathan,Shepherd,25,Research Analyst,St Albans,"Anchovy, Sweet Paprika and Oregano Bread",6,"Sticky Lemon Honey Bun
+Olive and Anchovy Roll
+Sundried Tomatoes and Fresh Herbs Roll
+Stilton, Walnut and Apple Roll
+Cinnamon and Cardamom Chelsea Bun",OUT
+1,3,Annetha,Mills,30,Midwife,Essex,NA,NA,NA,NA
+1,3,Lea,Harris,51,Retired,"Midlothian, Scotland",NA,NA,NA,NA
+1,3,Louise,Brimelow,44,Police Officer,Manchester,NA,NA,NA,NA
+1,3,Mark,Whithers,48,Bus Driver,South Wales,NA,NA,NA,NA
+1,4,Edd,Kimber,24,Debt collector for Yorkshire Bank,Bradford,Apple and Plum Pudding,3,"Apple and Cinnamon Crumble, Nutella Banana Brioche Bread Pudding, Rhubarb and Strawberry Suet Layer",IN
+1,4,Jasminder,Randhawa,45,Assistant Credit Control Manager,Birmingham,Sticky Toffee Pudding with Tropical Fruit & Toffee Sauce,2,"Bread & Butter Pudding, Treacle Suet Pudding with Fresh Fruit, Apple and Pineapple Crumble",IN
+1,4,Miranda,Browne,37,Food buyer for Marks & Spencer,"Midhurst, West Sussex",Sticky Toffee Pudding,1,"Queen of Puddings, Chocolate Pear Roly Poly, Strawberry and Rhubarb Crumble",IN
+1,4,Ruth,Clemens,31,Retail manager/Housewife,"Poynton, Cheshire",Peach and Blueberry Boy Bait,4,"Apple & Ginger Crumble, Rhubarb Suet Crust, Cherry Queen of Puddings",IN
+1,4,David,Chambers,31,Entrepreneur,Milton Keynes,Pear and Walnut Pudding,5,"Apple and Blackberry Crumble, Rhubarb and Orange Betty, Suet Pear",OUT
+1,4,Annetha,Mills,30,Midwife,Essex,NA,NA,NA,NA
+1,4,Jonathan,Shepherd,25,Research Analyst,St Albans,NA,NA,NA,NA
+1,4,Lea,Harris,51,Retired,"Midlothian, Scotland",NA,NA,NA,NA
+1,4,Louise,Brimelow,44,Police Officer,Manchester,NA,NA,NA,NA
+1,4,Mark,Whithers,48,Bus Driver,South Wales,NA,NA,NA,NA
+1,5,Edd,Kimber,24,Debt collector for Yorkshire Bank,Bradford,"Chicken, Ham, Leek and Tarragon Pie",2,"Almond Sweet Pastry with Ginger and Chocolate  Raspberry Tart / Yorkshire Curd Tart  Chickpea and Salami, Red and Yellow Pepper, Asparagus Gruyere Quiche Canapés",IN
+1,5,Miranda,Browne,37,Food buyer for Marks & Spencer,"Midhurst, West Sussex","Summery Salmon, Cod and Prawn Fish Pie",1,"Chocolate Pastry filled with Orange Cheesecake  Chocolate Pastry filled with Milk Chocolate Ganche  Strawberry Tart with Red Currant Glaze  Cheesy Crab, Broad Bean and Tomato, Pancetta Risotto Canapés",IN
+1,5,Ruth,Clemens,31,Retail manager/Housewife,"Poynton, Cheshire",Minced Beef Pie,3,"Raspberry and Dark Chocolate Tart  Creme Patisserie and Cherry Tart  Citrus Curd Tart with Creme Brulee top  Tomato, Asparagus Twirl Canapés",IN
+1,5,Jasminder,Randhawa,45,Assistant Credit Control Manager,Birmingham,Chicken and Mushroom Pie,4,"Jaggery, Carrot, and Spiced Condensed Milk Tart  Fruit and Custard Tart  Thai Chili Red Onion, Duck in Plum Sauce, Salmon and Prawn Canapés",OUT
+1,5,Annetha,Mills,30,Midwife,Essex,NA,NA,NA,NA
+1,5,David,Chambers,31,Entrepreneur,Milton Keynes,NA,NA,NA,NA
+1,5,Jonathan,Shepherd,25,Research Analyst,St Albans,NA,NA,NA,NA
+1,5,Lea,Harris,51,Retired,"Midlothian, Scotland",NA,NA,NA,NA
+1,5,Louise,Brimelow,44,Police Officer,Manchester,NA,NA,NA,NA
+1,5,Mark,Whithers,48,Bus Driver,South Wales,NA,NA,NA,NA
+1,6,Miranda,Browne,37,Food buyer for Marks & Spencer,"Midhurst, West Sussex",Lemon Cupcake,NA,Eliminated after signature,Runner-up
+1,6,Ruth,Clemens,31,Retail manager/Housewife,"Poynton, Cheshire","Mint, Ginger and Blackberry Cake",NA,NA,Runner-up
+1,6,Edd,Kimber,24,Debt collector for Yorkshire Bank,Bradford,Cinnamon and Banana Cake,NA,NA,WINNER
+1,6,Annetha,Mills,30,Midwife,Essex,NA,NA,NA,NA
+1,6,David,Chambers,31,Entrepreneur,Milton Keynes,NA,NA,NA,NA
+1,6,Jasminder,Randhawa,45,Assistant Credit Control Manager,Birmingham,NA,NA,NA,NA
+1,6,Jonathan,Shepherd,25,Research Analyst,St Albans,NA,NA,NA,NA
+1,6,Lea,Harris,51,Retired,"Midlothian, Scotland",NA,NA,NA,NA
+1,6,Louise,Brimelow,44,Police Officer,Manchester,NA,NA,NA,NA
+1,6,Mark,Whithers,48,Bus Driver,South Wales,NA,NA,NA,NA
+2,1,Ben,Frazer,31,Graphic Designer,Northampton,Rhubarb and Custard CupcakesAfter Dinner Cupcakes,2,Vanilla Sponge with White Chocolate and Raspberry Buttercream,IN
+2,1,Ian,Vallance,40,Fundraiser for English Heritage,"Dunstable, Bedfordshire",Apple and Cinnamon Cupcakes,10,UNKNOWN,IN
+2,1,Janet,Basu,63,Teacher of Modern Languages,"Formby, Liverpool",Raspberry and Cream Cupcakes,8,Chocolate Marble Cakewith Dark and White Chocolate Truffles,IN
+2,1,Jason,White,19,Civil Engineering Student,Croydon,Lemon Meringue CupcakesApple and Cinnamon Cupcakes,6,UNKNOWN,IN
+2,1,Joanne,NA,NA,NA,NA,Chocolate Orange CupcakesOrange and Cardamom Cupcakes,11,Chocolate and Strawberry Cake,IN
+2,1,Mary-Anne,Boermans,45,Housewife,"Kidderminster, Worcestershire",Banoffee Cupcakes,4,Chocolate and Raspberry Opera cake,IN
+2,1,Robert,Billington,25,Photographer,London,Blackberry and Vanilla Cupcakeswith Liquorice Frosting,3,Genoise Layered Mousse Cakewith Chocolate Ganache,IN
+2,1,Simon,Blackwell,31,Rugby Coach,Norfolk,Guinness and Chocolate Cupcakes,9,Two-Tiered Chocolate Courgette Cake,IN
+2,1,Urvashi,Roe,40,Head of Marketing,"Enfield, London",Cherry Blossom CupcakesJapanese Lime Cupcakes,7,UNKNOWN,IN
+2,1,Yasmin,Limbert,43,Childminder,"West Kirby, The Wirral",Cardamom and Pomegranate Cupcakes,5,UNKNOWN,IN
+2,1,Keith,Batsford,31,House husband,"Arlesey, Bedfordshire",Earl Grey Cupcakes,12,Chocolate and Sour Cream Cake,OUT
+2,1,Holly,Bell,31,Advertising executive,Leicester,Cherry Bakewell Inspired CupcakesGinger Cupcakes with Fig Truffle,1,UNKNOWN,STAR BAKER
+2,2,Ben,Frazer,31,Graphic Designer,Northampton,"Chorizo, Pepper and Gruyere Quiche",1,Lemon Meringue Tarts,IN
+2,2,Holly,Bell,31,Advertising executive,Leicester,Pesto Quiche,4,Milk Chocolate and Pistachio TartsTrifle Tarts,IN
+2,2,Ian,Vallance,40,Fundraiser for English Heritage,"Dunstable, Bedfordshire","Stilton, Spinach and New Potato Quichewith Paprika and Walnut Pastry",2,UNKNOWN,IN
+2,2,Janet,Basu,63,Teacher of Modern Languages,"Formby, Liverpool",Quiche Printanière,8,Red Fruit TartsChocolate and Cherry Tarts,IN
+2,2,Joanne,NA,NA,NA,NA,"Caramelised Onion, Gruyere and Thyme Quiche",10,Raspberry and Mascarpone Tarts with Lemon and Almond PastryHoney and Almond Tarts with Sweetcrust,IN
+2,2,Mary-Anne,Boermans,45,Housewife,"Kidderminster, Worcestershire","Roasted Cauliflower, Cheese andCaramelised Onion Quiche",9,Butterscotch Brulée Tarts in Pecan PastryApple Rose Tarts,IN
+2,2,Robert,Billington,25,Photographer,London,Smoked Bacon and Kale Quiche,5,"Chocolate, Fennel and Ginger TartAlmond, Creme Patissiere and Poached Pear Tart",IN
+2,2,Urvashi,Roe,40,Head of Marketing,"Enfield, London","Crab, Coriander and Coconut Quiche",7,Strawberry and Basil TartsElderflower and Honeycomb Tarts,IN
+2,2,Yasmin,Limbert,43,Childminder,"West Kirby, The Wirral",Smoked Haddock and Watercress Quiche,6,Chocolate and Orange with Cinnamon-Orange Pastry TartsBlueberry and Hazelnut with Hazelnut Pastry Tarts,IN
+2,2,Simon,Blackwell,31,Rugby Coach,Norfolk,Smoked Haddock and Watercress Quiche,11,"Passion Fruit and Ricotta TartsSalted Chocolate, Stem Ginger and Mascarpone Cream Tarts",OUT
+2,2,Jason,White,19,Civil Engineering Student,Croydon,Salmon and Pak Choi Quiche,3,Mint Chocolate Tarts Blueberry Bakewell Tarts,STAR BAKER
+2,2,Keith,Batsford,31,House husband,"Arlesey, Bedfordshire",NA,NA,NA,NA
+2,3,Ben,Frazer,31,Graphic Designer,Northampton,"Walnut, Raisin and Rosemary Loaf",3,UNKNOWN,IN
+2,3,Holly,Bell,31,Advertising executive,Leicester,Picnic Loaf,6,Stilton and Walnut Rolls,IN
+2,3,Janet,Basu,63,Teacher of Modern Languages,"Formby, Liverpool",Zupfe Loaf with Gruyère Cheese,8,Apple and Walnut Granary Rolls Red Onion Cottage Rolls,IN
+2,3,Jason,White,19,Civil Engineering Student,Croydon,Cheese and Onion Tear and Share Loaf,7,UNKNOWN,IN
+2,3,Joanne,NA,NA,NA,NA,"Stromboli flavored with Mozzarella, Ham, and Picante Pepper",1,Unknown,IN
+2,3,Mary-Anne,Boermans,45,Housewife,"Kidderminster, Worcestershire",Ploughman's Loaf,5,Herb and Walnut BreadsChocolate and Chilli Buns,IN
+2,3,Robert,Billington,25,Photographer,London,Rye and Coriander Seed Loaf,4,Blueberry Brioche RollsLemon and Poppy Seed Rolls,IN
+2,3,Ian,Vallance,40,Fundraiser for English Heritage,"Dunstable, Bedfordshire","Courgette, Caerphilly Cheese and Thyme Loaf",10,Walnut and Raisin RollsCracked Wheat Logs,OUT
+2,3,Urvashi,Roe,40,Head of Marketing,"Enfield, London",Salt and Peppercorn Loaf,9,Chilli and Halloumi RollsLemon and Coriander Mini Loaves,OUT
+2,3,Yasmin,Limbert,43,Childminder,"West Kirby, The Wirral",Egyptian Dukkah Loaf with Mixed Spices,2,"Pesto Bread
+Sweet Coconut Rolls",STAR BAKER
+2,3,Keith,Batsford,31,House husband,"Arlesey, Bedfordshire",NA,NA,NA,NA
+2,3,Simon,Blackwell,31,Rugby Coach,Norfolk,NA,NA,NA,NA
+2,4,Janet,Basu,63,Teacher of Modern Languages,"Formby, Liverpool",Christmas Marzipan Biscuits,4,"Raspberry Macarons
+Blackcurrant Macarons
+Almond Macarons",IN
+2,4,Joanne,NA,NA,NA,NA,Lavender Biscuits,8,Blueberry MacaronsCoconut MacaronsStrawberry Macarons,IN
+2,4,Mary-Anne,Boermans,45,Housewife,"Kidderminster, Worcestershire",Melting Moments,2,Blackcurrant and Mint MacaronsGooseberry and Elderflower MacaronsHazelnut Macarons,IN
+2,4,Robert,Billington,25,Photographer,London,Chocolate and Ginger Oat Biscuits,7,Strawberry and Lime MacaronsLemon MacaronsChocolate and Cardamom Macarons,IN
+2,4,Yasmin,Limbert,43,Childminder,"West Kirby, The Wirral",Chocolate Chip and Pistachio Biscotti,6,Chocolate and Lime MacaronsCoffee and Walnut MacaronsPineapple and Coconut Macarons,IN
+2,4,Ben,Frazer,31,Graphic Designer,Northampton,Stem Ginger Nuts,5,Chocolate and Almond MacaronsPine Nut MacaronsPistachio Macarons,OUT
+2,4,Holly,Bell,31,Advertising executive,Leicester,Strawberry and Custard Melts,3,"'Chocolate bars of my youth'
+(Caramel Macarons, Mint Chocolate Macarons and Chocolate Orange Macarons)",STAR BAKER
+2,4,Jason,White,19,Civil Engineering Student,Croydon,Lebkuchen,1,"Mocktail Macarons
+(Mojito, Cranberry Cooler, and Pina Colada)",STAR BAKER
+2,4,Ian,Vallance,40,Fundraiser for English Heritage,"Dunstable, Bedfordshire",NA,NA,NA,NA
+2,4,Keith,Batsford,31,House husband,"Arlesey, Bedfordshire",NA,NA,NA,NA
+2,4,Simon,Blackwell,31,Rugby Coach,Norfolk,NA,NA,NA,NA
+2,4,Urvashi,Roe,40,Head of Marketing,"Enfield, London",NA,NA,NA,NA
+2,5,Holly,Bell,31,Advertising executive,Leicester,"Stilton, Potato and Caramelised Onion Pie",4,Lime Meringue Pie,IN
+2,5,Joanne,NA,NA,NA,NA,Salmon and Asparagus Pie,6,Apple and Raspberry Meringue Pie,IN
+2,5,Mary-Anne,Boermans,45,Housewife,"Kidderminster, Worcestershire",Chicken and Bacon Pie,2,Midnight Meringue,IN
+2,5,Yasmin,Limbert,43,Childminder,"West Kirby, The Wirral",Family Fish Pie,5,Peach and Raspberry Meringue Pie,IN
+2,5,Jason,White,19,Civil Engineering Student,Croydon,Brown Down Chicken Pie,7,Plum Meringue Pie,OUT
+2,5,Robert,Billington,25,Photographer,London,Chicken and Mushroom Pie,3,Rhubarb and Custard Meringue Pie,OUT
+2,5,Janet,Basu,63,Teacher of Modern Languages,"Formby, Liverpool",Chicken and Chestnut Pie,1,Rhubarb Meringue Pie,STAR BAKER
+2,5,Ben,Frazer,31,Graphic Designer,Northampton,NA,NA,NA,NA
+2,5,Ian,Vallance,40,Fundraiser for English Heritage,"Dunstable, Bedfordshire",NA,NA,NA,NA
+2,5,Keith,Batsford,31,House husband,"Arlesey, Bedfordshire",NA,NA,NA,NA
+2,5,Simon,Blackwell,31,Rugby Coach,Norfolk,NA,NA,NA,NA
+2,5,Urvashi,Roe,40,Head of Marketing,"Enfield, London",NA,NA,NA,NA
+2,6,Holly,Bell,31,Advertising executive,Leicester,Father Christmas' Baked Cheesecake,3,Hansel and Gretel's Croquembouche,IN
+2,6,Janet,Basu,63,Teacher of Modern Languages,"Formby, Liverpool",Rhubarb and Ginger Baked Cheesecake,5,Orange and Nougatine Croquembouche,IN
+2,6,Mary-Anne,Boermans,45,Housewife,"Kidderminster, Worcestershire",Tutti Fruitti Curd Baked Cheesecake,4,Orange and Praline Croquembouche with Cardamom Caramel,IN
+2,6,Yasmin,Limbert,43,Childminder,"West Kirby, The Wirral",Baked Amaretto Cheesecake,2,Rose Croquembouche,OUT
+2,6,Joanne,NA,NA,NA,NA,Rum and Raisin Baked Cheesecake,1,Limoncello and White Chocolate Croquembouche,STAR BAKER
+2,6,Ben,Frazer,31,Graphic Designer,Northampton,NA,NA,NA,NA
+2,6,Ian,Vallance,40,Fundraiser for English Heritage,"Dunstable, Bedfordshire",NA,NA,NA,NA
+2,6,Jason,White,19,Civil Engineering Student,Croydon,NA,NA,NA,NA
+2,6,Keith,Batsford,31,House husband,"Arlesey, Bedfordshire",NA,NA,NA,NA
+2,6,Robert,Billington,25,Photographer,London,NA,NA,NA,NA
+2,6,Simon,Blackwell,31,Rugby Coach,Norfolk,NA,NA,NA,NA
+2,6,Urvashi,Roe,40,Head of Marketing,"Enfield, London",NA,NA,NA,NA
+2,7,Holly,Bell,31,Advertising executive,Leicester,"White Chocolate, Hazelnut and Raspberry Genoise Mousse Cake",1,"Apricot, Macadamia and White Chocolate PinwheelsAlmond CroissantsApple, Raisin and Cinnamon Plaits",IN
+2,7,Joanne,NA,NA,NA,NA,Raspberry & Strawberry Mousse Cake,3,Pain Aux RaisinChocolate TwistsBanana and Raisin Pastries,IN
+2,7,Mary-Anne,Boermans,45,Housewife,"Kidderminster, Worcestershire",Chocolate and Orange Mousse Cake,2,Raspberry Rose DanishesPraline SpiralsAlsatian Plaited Danishes,IN
+2,7,Janet,Basu,63,Teacher of Modern Languages,"Formby, Liverpool",Chocolate Amaretto Mousse Cake,4,Pain Aux RaisinPlain CroissantPain Au Chocolat,OUT
+2,7,Ben,Frazer,31,Graphic Designer,Northampton,NA,NA,NA,NA
+2,7,Ian,Vallance,40,Fundraiser for English Heritage,"Dunstable, Bedfordshire",NA,NA,NA,NA
+2,7,Jason,White,19,Civil Engineering Student,Croydon,NA,NA,NA,NA
+2,7,Keith,Batsford,31,House husband,"Arlesey, Bedfordshire",NA,NA,NA,NA
+2,7,Robert,Billington,25,Photographer,London,NA,NA,NA,NA
+2,7,Simon,Blackwell,31,Rugby Coach,Norfolk,NA,NA,NA,NA
+2,7,Urvashi,Roe,40,Head of Marketing,"Enfield, London",NA,NA,NA,NA
+2,7,Yasmin,Limbert,43,Childminder,"West Kirby, The Wirral",NA,NA,NA,NA
+2,8,Holly,Bell,31,Advertising executive,Leicester,Banoffee Inspired Mille Feuille,2,Strawberry and Cream Meringue NestGooseberry and Elderflower 'Bakewell' TartsNeapolitan Ice-Cream Sandwich,Runner-up
+2,8,Mary-Anne,Boermans,45,Housewife,"Kidderminster, Worcestershire",Lemon and Ginger Mille Feuille,3,Fruit Tarts with Elderflower CustardStrawberry and Rhubarb CheesecakesBlack Fruit Meringue with Everlasting Syllabub,Runner-up
+2,8,Joanne,NA,NA,NA,NA,Raspberry and Blueberry Mille Feuille,1,"Mini Victoria SandwichesRaspberry, White Chocolate and Pistachio Mini MeringuesMini Banoffee Pie with Banana Mousse",WINNER
+2,8,Ben,Frazer,31,Graphic Designer,Northampton,NA,NA,NA,NA
+2,8,Ian,Vallance,40,Fundraiser for English Heritage,"Dunstable, Bedfordshire",NA,NA,NA,NA
+2,8,Janet,Basu,63,Teacher of Modern Languages,"Formby, Liverpool",NA,NA,NA,NA
+2,8,Jason,White,19,Civil Engineering Student,Croydon,NA,NA,NA,NA
+2,8,Keith,Batsford,31,House husband,"Arlesey, Bedfordshire",NA,NA,NA,NA
+2,8,Robert,Billington,25,Photographer,London,NA,NA,NA,NA
+2,8,Simon,Blackwell,31,Rugby Coach,Norfolk,NA,NA,NA,NA
+2,8,Urvashi,Roe,40,Head of Marketing,"Enfield, London",NA,NA,NA,NA
+2,8,Yasmin,Limbert,43,Childminder,"West Kirby, The Wirral",NA,NA,NA,NA
+3,1,Brendan,Lynch,63,Recruitment consultant,Sutton Coldfield,"Plum, Sour Cherry & Walnut",10,UNKNOWN,IN
+3,1,Cathryn,Dresser,27,Shop assistant,"Pease Pottage, West Sussex","Apple, Hazelnut and Calvados",5,Hidden Cupcake Cake,IN
+3,1,Danny,Bryden,45,Intensive care consultant,Sheffield,"Plum, Ginger & Orange",7,UNKNOWN,IN
+3,1,James,Morton,21,Medical student,"Hillswick, Shetland Islands","Parsnip, Pear, and Pecan",2,"""Simmer Dim"" Sunset Cake",IN
+3,1,John,Whaite,22,Law student,Wigan,"Toffee Apple, Orange & Cranberry",11,Hidden Pink Hearts Cake,IN
+3,1,Manisha,Parmar,27,Nursery nurse,Leicester,"Vanilla, Peach and Raspberry",6,White Chocolate Cake with a Red Velvet and White Chocolate Mousse Heart,IN
+3,1,Peter,Maloney,43,Sales manager,"Windsor, Berkshire","Pear, Muscat & Chocolate",3,Jubilee Cake,IN
+3,1,Ryan,Chong,38,Photographer,Bristol,Kumquat and Orange Polenta,8,Hidden Flowerbed Mousse Cake,IN
+3,1,Sarah-Jane,Willis,28,Vicar's wife,"Bewbush, West Sussex","Pear, Chocolate and Hazelnut",1,Hidden Crown Cake,IN
+3,1,Stuart,Marston-Smith,26,PE teacher,"Lichfield, Staffordshire",Tomato and Ginger,9,Lemon and Pistachio Union Flag Cake,IN
+3,1,Natasha,Stringer,36,Midwife,"Tamworth, Staffordshire",Pineapple & Passion Fruit,12,Mother's Day Layered Rose Cake,OUT
+3,1,Victoria,Chester,50,CEO of the charity Plantlife,Somerset,Pear and Pecan,4,Blackbird Pie Cake,STAR BAKER
+3,2,Brendan,Lynch,63,Recruitment consultant,Sutton Coldfield,Middle Eastern Taboon BreadIndian Rotis,4,"Chocolate and Vanilla Bagels
+Cumin and Gruyere Bagels",IN
+3,2,Cathryn,Dresser,27,Shop assistant,"Pease Pottage, West Sussex","Spiced Mango NaanLime, Coriander and Chilli Tortillas",8,"Cranberry and Orange Bagels
+Chipotle, Chili, and Smoked Cheddar Bagels",IN
+3,2,Danny,Bryden,45,Intensive care consultant,Sheffield,Lime Coriander and Coconut TortillasZaatar Naan with Dukkah,3,UNKNOWN,IN
+3,2,James,Morton,21,Medical student,"Hillswick, Shetland Islands","Tomato, Garlic, and Parmesan FlatbreadsTattie Scones",2,"Orange, Mint and Chocolate Bagels
+'Millers' Sourdough Bagels",IN
+3,2,Manisha,Parmar,27,Nursery nurse,Leicester,Indian FlatbreadsItalian Flatbreads,6,UNKNOWN,IN
+3,2,Ryan,Chong,38,Photographer,Bristol,Shanghai Spring Onion FlatbreadsGarlic and Coriander Naan,5,"Cinnamon and Date Bagels
+Tarragon and Rosemary Bagels",IN
+3,2,Sarah-Jane,Willis,28,Vicar's wife,"Bewbush, West Sussex",Toasted Coconut and Lime RotisOatcakes,10,UNKNOWN,IN
+3,2,Stuart,Marston-Smith,26,PE teacher,"Lichfield, Staffordshire",Bombay BreadChorizo and Spring Onion Naan,9,"Cinnamon and Cranberry Bagels
+Tomato and Thyme Bagels",IN
+3,2,Victoria,Chester,50,CEO of the charity Plantlife,Somerset,Coriander and Lemon NaanGarlic and Parsnip Chapatis,7,"Saffron and Golden Raisin Bagels
+Porcini Bagels",IN
+3,2,Peter,Maloney,43,Sales manager,"Windsor, Berkshire",Fennel and Nigella Seed NaanBannock Bread,11,"Rosemary and Sea Salt Bagels
+Apple and Cinnamon Bagels",OUT
+3,2,John,Whaite,22,Law student,Wigan,"Coriander and Chilli RotisGarlic, Pomegranate and Potato Pitas",1,"Fig, Walnut and Gruyere Bagels
+Blueberry and White Chocolate Bagels",STAR BAKER
+3,2,Natasha,Stringer,36,Midwife,"Tamworth, Staffordshire",NA,NA,NA,NA
+3,3,Brendan,Lynch,63,Recruitment consultant,Sutton Coldfield,Apple and Ginger Tarte Tatin,9,"Blackberry, Nectarine and Dragon Fruit Tart",IN
+3,3,Cathryn,Dresser,27,Shop assistant,"Pease Pottage, West Sussex","Plum, Cherry and Five Spice Tarte Tatin",3,"Raspberry, Pistachio and Lemon Tart",IN
+3,3,Danny,Bryden,45,Intensive care consultant,Sheffield,Savoury Pear and Roquefort Tarte Tatin,2,"Pineapple, Coconut and Frangipane Tart",IN
+3,3,John,Whaite,22,Law student,Wigan,Apple and Vanilla Tarte Tatin with Walnut Praline,6,"Berries, Grapes, Pomegranate, and Dragon Fruit Tart",IN
+3,3,Manisha,Parmar,27,Nursery nurse,Leicester,"Cinnamon, Apple and Pear Tarte Tatin",10,Rum and Tropical Fruit Tart,IN
+3,3,Ryan,Chong,38,Photographer,Bristol,Spiced Pear Tarte Tatin,5,UNKNOWN,IN
+3,3,Sarah-Jane,Willis,28,Vicar's wife,"Bewbush, West Sussex",Caramelised Banana Tarte Tatin,8,French Apple Tart with Blackberry and Cassis Jam,IN
+3,3,Stuart,Marston-Smith,26,PE teacher,"Lichfield, Staffordshire",Pear and Almond Tarte Tatin,7,Raspberry Triple Chocolate Layered Tart,IN
+3,3,Victoria,Chester,50,CEO of the charity Plantlife,Somerset,"Fig, Walnut and Pink Peppercorn Tarte Tatin",4,Tropical Fruit Tart with Black Pepper Crust,OUT
+3,3,James,Morton,21,Medical student,"Hillswick, Shetland Islands",Apple and Lavender Tarte Tatin,1,"Rose, Lychee and Raspberry Fruit Tart",STAR BAKER
+3,3,Natasha,Stringer,36,Midwife,"Tamworth, Staffordshire",NA,NA,NA,NA
+3,3,Peter,Maloney,43,Sales manager,"Windsor, Berkshire",NA,NA,NA,NA
+3,4,Cathryn,Dresser,27,Shop assistant,"Pease Pottage, West Sussex","White Chocolate, Macadamia and Coffee Torte",3,"Gooseberry, Almond and Honey Meringue",IN
+3,4,Danny,Bryden,45,Intensive care consultant,Sheffield,"Blackberry, White Chocolate, Lemon and Elderflower Torte",2,"'Monte Bianco' Chestnut, Chocolate and Coffee Dacquoise",IN
+3,4,James,Morton,21,Medical student,"Hillswick, Shetland Islands","Hazelnut, Chocolate and Passionfruit Torte",5,"Fig, Chestnut, Cherry and Chocolate Layered Meringue",IN
+3,4,John,Whaite,22,Law student,Wigan,'Torte Noir' Black Forest Torte with Boozy Cream,6,Elderflower and Bramble Berry Pavlova,IN
+3,4,Manisha,Parmar,27,Nursery nurse,Leicester,"Almond, Chocolate and Cherry Torte",9,Tiramisu Layered Meringue Dessert,IN
+3,4,Ryan,Chong,38,Photographer,Bristol,Green Tea Opera Torte,7,"Strawberry, Rose and Pistachio Meringue",IN
+3,4,Sarah-Jane,Willis,28,Vicar's wife,"Bewbush, West Sussex",Chocolate and Almond Truffle Torte,4,Hazelnut Tiramisu Layered Meringue,IN
+3,4,Stuart,Marston-Smith,26,PE teacher,"Lichfield, Staffordshire",Black Forest Torte,8,Choca Blocka Mocha Meringue,OUT
+3,4,Brendan,Lynch,63,Recruitment consultant,Sutton Coldfield,Clementine and Chestnut Torte,1,"Pear, Chocolate and Hazelnut Dacquoise",STAR BAKER
+3,4,Natasha,Stringer,36,Midwife,"Tamworth, Staffordshire",NA,NA,NA,NA
+3,4,Peter,Maloney,43,Sales manager,"Windsor, Berkshire",NA,NA,NA,NA
+3,4,Victoria,Chester,50,CEO of the charity Plantlife,Somerset,NA,NA,NA,NA
+3,5,Brendan,Lynch,63,Recruitment consultant,Sutton Coldfield,Salmon Coulibiac in a Scandinavian Pastry,3,All American Chiffon Pie,IN
+3,5,Cathryn,Dresser,27,Shop assistant,"Pease Pottage, West Sussex",Full English Wellington,1,Chocolate and Peanut Butter Pumpkin Pie,IN
+3,5,Danny,Bryden,45,Intensive care consultant,Sheffield,"Chickpea, Spinach & Mushroom Wellington",7,Trick or Treat Pumpkin Pie,IN
+3,5,James,Morton,21,Medical student,"Hillswick, Shetland Islands",Four Pig Wellington,6,Sweet Potato Pie,IN
+3,5,John,Whaite,22,Law student,Wigan,Venison and Haggis Wellington,2,Star-Spangled Pecan Pie,IN
+3,5,Sarah-Jane,Willis,28,Vicar's wife,"Bewbush, West Sussex",Beef Wellington with Parma Ham and Gorgonzola Cheese,4,Chocolate and Banana Cream Pie,IN
+3,5,Manisha,Parmar,27,Nursery nurse,Leicester,Lamb Wellington with Rosemary and Mint,5,Banana Scotch Pie,OUT
+3,5,Ryan,Chong,38,Photographer,Bristol,Curry Spiced Seabass Wellington,8,Key Lime Pie,STAR BAKER
+3,5,Natasha,Stringer,36,Midwife,"Tamworth, Staffordshire",NA,NA,NA,NA
+3,5,Peter,Maloney,43,Sales manager,"Windsor, Berkshire",NA,NA,NA,NA
+3,5,Stuart,Marston-Smith,26,PE teacher,"Lichfield, Staffordshire",NA,NA,NA,NA
+3,5,Victoria,Chester,50,CEO of the charity Plantlife,Somerset,NA,NA,NA,NA
+3,6,Cathryn,Dresser,27,Shop assistant,"Pease Pottage, West Sussex","Chocolate Walnut Whip Puddings
+Elderflower Sponges",3,Roasted Vegetable Couscous and Sheep Cheese Strudel,IN
+3,6,Danny,Bryden,45,Intensive care consultant,Sheffield,Banoffee Puddings with Walnut Butterscotch SauceJubilee Chocolate Fondants,2,"Leek, Potato, Pistachio and Gruyère Strudel",IN
+3,6,James,Morton,21,Medical student,"Hillswick, Shetland Islands",Banana and Clove PuddingsClootie Dumplings,7,"Strawberry, Rhubarb and Ginger Strudel",IN
+3,6,John,Whaite,22,Law student,Wigan,Spicy Toffee PuddingsRaspberry and White Chocolate Puddings,5,Did not complete due to injury,IN
+3,6,Ryan,Chong,38,Photographer,Bristol,Chocolate FondantsSticky Ginger and Date Puddings,6,"Apple, Sour Cherry, Raisin and Mixed Nuts Strudel",IN
+3,6,Sarah-Jane,Willis,28,Vicar's wife,"Bewbush, West Sussex",Sticky Toffee PuddingsGranny's Saucy Lemon Puddings,4,Sweet Strudel with Sour Cherries,IN
+3,6,Brendan,Lynch,63,Recruitment consultant,Sutton Coldfield,"Rhubarb, Strawberry and Ginger Puddings
+Sticky Toffee Puddings",1,"Spinach, Cheese and Walnut Strudel",STAR BAKER
+3,6,Manisha,Parmar,27,Nursery nurse,Leicester,NA,NA,NA,NA
+3,6,Natasha,Stringer,36,Midwife,"Tamworth, Staffordshire",NA,NA,NA,NA
+3,6,Peter,Maloney,43,Sales manager,"Windsor, Berkshire",NA,NA,NA,NA
+3,6,Stuart,Marston-Smith,26,PE teacher,"Lichfield, Staffordshire",NA,NA,NA,NA
+3,6,Victoria,Chester,50,CEO of the charity Plantlife,Somerset,NA,NA,NA,NA
+3,7,Brendan,Lynch,63,Recruitment consultant,Sutton Coldfield,Chelsea Bunskis,4,Black Forest Christmas Stollen,IN
+3,7,Cathryn,Dresser,27,Shop assistant,"Pease Pottage, West Sussex",Lady Arundel's Manchet Buns,5,Bonfire Night Tear 'n' Share Brioche,IN
+3,7,James,Morton,21,Medical student,"Hillswick, Shetland Islands",Easter Chelsea Buns,1,Whisky Kugelhopf-Brioche Baba,IN
+3,7,John,Whaite,22,Law student,Wigan,Cherry and Almond Saffron Buns,3,Marzipan Stollen,IN
+3,7,Ryan,Chong,38,Photographer,Bristol,Lardy Cakes,6,Char Siu Bao,OUT
+3,7,Sarah-Jane,Willis,28,Vicar's wife,"Bewbush, West Sussex","Orange, Nutmeg and Saffron Buns",7,Sour Cherry and Dark Chocolate Christmas Plait,OUT
+3,7,Danny,Bryden,45,Intensive care consultant,Sheffield,Bakewell Chelsea Buns,2,European Christmas Wreath,STAR BAKER
+3,7,Manisha,Parmar,27,Nursery nurse,Leicester,NA,NA,NA,NA
+3,7,Natasha,Stringer,36,Midwife,"Tamworth, Staffordshire",NA,NA,NA,NA
+3,7,Peter,Maloney,43,Sales manager,"Windsor, Berkshire",NA,NA,NA,NA
+3,7,Stuart,Marston-Smith,26,PE teacher,"Lichfield, Staffordshire",NA,NA,NA,NA
+3,7,Victoria,Chester,50,CEO of the charity Plantlife,Somerset,NA,NA,NA,NA
+3,8,Brendan,Lynch,63,Recruitment consultant,Sutton Coldfield,Multi-Seed Savoury Crackers,2,Fantasy Gingerbread Bird House,IN
+3,8,Danny,Bryden,45,Intensive care consultant,Sheffield,Spiced Almond Drinks Crackers,4,Gingerbread Big Ben,IN
+3,8,John,Whaite,22,Law student,Wigan,Asian Spice Crackers,3,Gingerbread Roman Coliseum,IN
+3,8,Cathryn,Dresser,27,Shop assistant,"Pease Pottage, West Sussex",Cheese and Pickle Crackers,5,Gingerbread Buckingham Palace,OUT
+3,8,James,Morton,21,Medical student,"Hillswick, Shetland Islands","Smoky Cayenne, Cumin and Chilli Crackers",1,Gingerbread Barn,STAR BAKER
+3,8,Manisha,Parmar,27,Nursery nurse,Leicester,NA,NA,NA,NA
+3,8,Natasha,Stringer,36,Midwife,"Tamworth, Staffordshire",NA,NA,NA,NA
+3,8,Peter,Maloney,43,Sales manager,"Windsor, Berkshire",NA,NA,NA,NA
+3,8,Ryan,Chong,38,Photographer,Bristol,NA,NA,NA,NA
+3,8,Sarah-Jane,Willis,28,Vicar's wife,"Bewbush, West Sussex",NA,NA,NA,NA
+3,8,Stuart,Marston-Smith,26,PE teacher,"Lichfield, Staffordshire",NA,NA,NA,NA
+3,8,Victoria,Chester,50,CEO of the charity Plantlife,Somerset,NA,NA,NA,NA
+3,9,Brendan,Lynch,63,Recruitment consultant,Sutton Coldfield,Coffee Meringue and Hazelnut CreamsApricot and Pistachio FriandsLime Curd Choux Pastry Cygnets,3,Gateau St. Honoré,IN
+3,9,John,Whaite,22,Law student,Wigan,Lemon MadeleinesWhite Chocolate and Raspberry TartletsDark Chocolate and Cherry Macaroons,2,Gateau St. Honoré a la Passion,IN
+3,9,Danny,Bryden,45,Intensive care consultant,Sheffield,Blackberry and Peppermint MacaroonsMiniature Raspberry and Basil FinanciersOrange and White Chocolate Langues de Chat,4,Rosewater and Lychee St. Honoré,OUT
+3,9,James,Morton,21,Medical student,"Hillswick, Shetland Islands","Lemon and Rhubarb TartletsChocolate Indulgence Petits FoursChilli, Lime and Raspberry Macaroons",1,"Coffee, Caramel and Hazelnut Paris-Brest",STAR BAKER
+3,9,Cathryn,Dresser,27,Shop assistant,"Pease Pottage, West Sussex",NA,NA,NA,NA
+3,9,Manisha,Parmar,27,Nursery nurse,Leicester,NA,NA,NA,NA
+3,9,Natasha,Stringer,36,Midwife,"Tamworth, Staffordshire",NA,NA,NA,NA
+3,9,Peter,Maloney,43,Sales manager,"Windsor, Berkshire",NA,NA,NA,NA
+3,9,Ryan,Chong,38,Photographer,Bristol,NA,NA,NA,NA
+3,9,Sarah-Jane,Willis,28,Vicar's wife,"Bewbush, West Sussex",NA,NA,NA,NA
+3,9,Stuart,Marston-Smith,26,PE teacher,"Lichfield, Staffordshire",NA,NA,NA,NA
+3,9,Victoria,Chester,50,CEO of the charity Plantlife,Somerset,NA,NA,NA,NA
+3,10,Brendan,Lynch,63,Recruitment consultant,Sutton Coldfield,Potato and Pepper Pithivier,2,Family Reunion Chiffon Cake,Runner-up
+3,10,James,Morton,21,Medical student,"Hillswick, Shetland Islands",Spanish Pithivier with Chorizo and Red Pepper,1,United Chiffon Cakes,Runner-up
+3,10,John,Whaite,22,Law student,Wigan,Italian Sausage and Roasted Vegetable Pithivier,2,Heaven and Hell Chiffon Cake,WINNER
+3,10,Cathryn,Dresser,27,Shop assistant,"Pease Pottage, West Sussex",NA,NA,NA,NA
+3,10,Danny,Bryden,45,Intensive care consultant,Sheffield,NA,NA,NA,NA
+3,10,Manisha,Parmar,27,Nursery nurse,Leicester,NA,NA,NA,NA
+3,10,Natasha,Stringer,36,Midwife,"Tamworth, Staffordshire",NA,NA,NA,NA
+3,10,Peter,Maloney,43,Sales manager,"Windsor, Berkshire",NA,NA,NA,NA
+3,10,Ryan,Chong,38,Photographer,Bristol,NA,NA,NA,NA
+3,10,Sarah-Jane,Willis,28,Vicar's wife,"Bewbush, West Sussex",NA,NA,NA,NA
+3,10,Stuart,Marston-Smith,26,PE teacher,"Lichfield, Staffordshire",NA,NA,NA,NA
+3,10,Victoria,Chester,50,CEO of the charity Plantlife,Somerset,NA,NA,NA,NA
+4,1,Ali,Imdad,25,Charity worker,"Saltley, Birmingham",Rose and Pistachio Cake,11,"Chocolate, Raspberry and Passion Fruit Engagement Cake",IN
+4,1,Beca,Lyne-Pirkis,31,Military Wives' Choir Singer,"Aldershot, Hampshire",Grapefruit Sandwich Cake,8,Chocolate Cherry Indulgence,IN
+4,1,Christine,Wallace,66,Director of an engraving company,"Didcot, Oxfordshire","Strawberry, Vanilla and Rosewater Summer Basket",3,Chocolate and Orange 'Fripperous' Hat Cake,IN
+4,1,Deborah,Manger,51,Dentist,Peterborough,Pineapple Cake,9,'Coffee Time',IN
+4,1,Frances,Quinn,31,Children's Clothes Designer,"Market Harborough, Leicestershire",Giant Jam Sandwich,7,Secret Squirrel Cake,IN
+4,1,Glenn,Cosby,37,English Teacher,"Teignmouth, Devon",Strawberries and Cream Cake,4,Almond and Espresso Chocolate Cake,IN
+4,1,Howard,Middleton,51,Council Worker,Sheffield,Passion Fruit and Coconut Cake,6,Black Forest Revisited,IN
+4,1,Kimberley,Wilson,30,Psychologist,London,Blood Orange Cake,10,"Chocolate, Raspberry & Basil Layer Cake",IN
+4,1,Lucy,Bellamy,38,Horticulturist,"Grimsby, Lincolnshire",Timperley Early Cake,2,Thyme 'Wildwood' Cake,IN
+4,1,Mark,Onley,37,Carpenter and Kitchen Fitter,Milton Keynes,Lemon and Poppy Seed Cake,5,Chocolate Monster,IN
+4,1,Ruby,Tandoh,20,History of Art and Philosophy Student,"Southend, Essex",Rhubarb and Custard Sandwich Cake,12,Chocolate and Ginger Night Sky Cake,IN
+4,1,Toby,Waterworth,30,Web Programmer,"Reading, Berkshire",Spiced and Iced Carrot Cake,13,Two Tiered Chocolate Cake,OUT
+4,1,Robert,Smart,54,Space Satellite Designer,"Melbourn, Cambridgeshire",Pecan and Apple Cake,1,Raspberry Chocolate Cake,STAR BAKER
+4,2,Ali,Imdad,25,Charity worker,"Saltley, Birmingham",Italian Grissini,9,Sweet and Savoury Yin Yang Bread,IN
+4,2,Beca,Lyne-Pirkis,31,Military Wives' Choir Singer,"Aldershot, Hampshire",Fennel and Chilli Breadsticks,11,Five Strand Christmas Wreath,IN
+4,2,Christine,Wallace,66,Director of an engraving company,"Didcot, Oxfordshire",Mediterranean Breadsticks with Oregano,4,Double Plaited Loaf,IN
+4,2,Deborah,Manger,51,Dentist,Peterborough,Fennel & Chilli Breadsticks,8,Walnut Fleur Loaf,IN
+4,2,Frances,Quinn,31,Children's Clothes Designer,"Market Harborough, Leicestershire",Giant Matchsticks,2,Sailor's Knot,IN
+4,2,Glenn,Cosby,37,English Teacher,"Teignmouth, Devon",Rosemary and Parmesan Grissini,7,Harvest Crown,IN
+4,2,Howard,Middleton,51,Council Worker,Sheffield,Moroccan Breadsticks,10,Picasso Sun Bread,IN
+4,2,Kimberley,Wilson,30,Psychologist,London,Nigella Seed and Parmesan Breadsticks,1,Peace Bread,IN
+4,2,Mark,Onley,37,Carpenter and Kitchen Fitter,Milton Keynes,Rosemary & Raisin Breadsticks,6,Sage & Garlic Plait,IN
+4,2,Robert,Smart,54,Space Satellite Designer,"Melbourn, Cambridgeshire",Twisty Rye Bread Sticks,5,Tribute Loaf,IN
+4,2,Lucy,Bellamy,38,Horticulturist,"Grimsby, Lincolnshire",Grissini with Salt,12,Roast Tomato Bread,OUT
+4,2,Ruby,Tandoh,20,History of Art and Philosophy Student,"Southend, Essex",Mexican Breadsticks,3,White Chocolate and Orange Peacock Bread,STAR BAKER
+4,2,Toby,Waterworth,30,Web Programmer,"Reading, Berkshire",NA,NA,NA,NA
+4,3,Ali,Imdad,25,Charity worker,"Saltley, Birmingham","Coconut, Raspberry and Lemon Meringue Trifle",5,Vanilla Latte Mini CakesLime & Mint Shortbread Pops,IN
+4,3,Beca,Lyne-Pirkis,31,Military Wives' Choir Singer,"Aldershot, Hampshire",Orange and Ginger Trifle,10,Limoncello and Blueberry BurstsMillionaire Shortbread,IN
+4,3,Frances,Quinn,31,Children's Clothes Designer,"Market Harborough, Leicestershire",Apple and Blackberry Crumble Trifle,8,'Ballet Bites' Ginger NutcrackersSugar Plum Fairy Cakes,IN
+4,3,Glenn,Cosby,37,English Teacher,"Teignmouth, Devon",Raspberry and Almond Trifle,1,Billionaire BouchéesOrange Financiers,IN
+4,3,Howard,Middleton,51,Council Worker,Sheffield,Caramel and Apple Trifle*,7,Black Coffee and Cardamom CakesWhite Stilton and Pear Biscuits,IN
+4,3,Kimberley,Wilson,30,Psychologist,London,"Peach, Almond and Ginger Trifle",6,Chocolate Pistachio FinanciersLemon Bergamot Biscuits,IN
+4,3,Robert,Smart,54,Space Satellite Designer,"Melbourn, Cambridgeshire",Rhubarb and Orange Trifle,2,Almond FriandsTurǫn Macaroons,IN
+4,3,Ruby,Tandoh,20,History of Art and Philosophy Student,"Southend, Essex",Desert Island Trifle,3,Lemon Shortbread and White Chocolate SeashellsBlackberry and Chocolate Layer Cakes,IN
+4,3,Deborah,Manger,51,Dentist,Peterborough,Tropical Trifle*,9,Canelé Cherry and Chocolate CakesRose Cookies,OUT
+4,3,Mark,Onley,37,Carpenter and Kitchen Fitter,Milton Keynes,"Ginger, Mango and Passion Fruit Trifle",11,Rose and Pistachio MacaroonsChocolate and Raspberry Bites,OUT
+4,3,Christine,Wallace,66,Director of an engraving company,"Didcot, Oxfordshire",Caribbean Pina Colada Trifle,4,Ninety-NinersSachertorte Parcels,STAR BAKER
+4,3,Lucy,Bellamy,38,Horticulturist,"Grimsby, Lincolnshire",NA,NA,NA,NA
+4,3,Toby,Waterworth,30,Web Programmer,"Reading, Berkshire",NA,NA,NA,NA
+4,4,Beca,Lyne-Pirkis,31,Military Wives' Choir Singer,"Aldershot, Hampshire",Mamgu's Cherry-Apple Tart,2,Moroccan Vegetable Filo Feast,IN
+4,4,Christine,Wallace,66,Director of an engraving company,"Didcot, Oxfordshire","Granny Rogers' Apple, Plum & Cinnamon Country Pie",7,Roasted Vegetable Filo Pie with Feta Cheese,IN
+4,4,Frances,Quinn,31,Children's Clothes Designer,"Market Harborough, Leicestershire",Peach Pie In the Sky,1,Cherry Tree Baklava Filo Pie,IN
+4,4,Glenn,Cosby,37,English Teacher,"Teignmouth, Devon",Apple & Maple Syrup Pie,9,Spanakopita (Walnut and Feta Cheese),IN
+4,4,Howard,Middleton,51,Council Worker,Sheffield,Apple Pie with Sage Pastry,5,Fresh Fig and Feta Filo Flan,IN
+4,4,Robert,Smart,54,Space Satellite Designer,"Melbourn, Cambridgeshire",Apple and Pear Pie with Thyme,3,Spanakopita with St George's Mushrooms,IN
+4,4,Ruby,Tandoh,20,History of Art and Philosophy Student,"Southend, Essex",Apple and Marzipan Pie,6,"Rose, Almond and Raspberry Filo Pie",IN
+4,4,Ali,Imdad,25,Charity worker,"Saltley, Birmingham",Apple and Ginger Pie with a Pecan and Walnut Shortcrust Pastry,8,"Orange, Cardamom and Date M'Hanncha",OUT
+4,4,Kimberley,Wilson,30,Psychologist,London,Pecan and Rosemary Caramel Apple Pie,4,"Chicken, Bacon and Butternut Squash Pie",STAR BAKER
+4,4,Deborah,Manger,51,Dentist,Peterborough,NA,NA,NA,NA
+4,4,Lucy,Bellamy,38,Horticulturist,"Grimsby, Lincolnshire",NA,NA,NA,NA
+4,4,Mark,Onley,37,Carpenter and Kitchen Fitter,Milton Keynes,NA,NA,NA,NA
+4,4,Toby,Waterworth,30,Web Programmer,"Reading, Berkshire",NA,NA,NA,NA
+4,5,Beca,Lyne-Pirkis,31,Military Wives' Choir Singer,"Aldershot, Hampshire","Chocolate, Cherry and Hazelnut Brownies",5,Tiered Macaron and Sugar Dough Biscuit Centrepiece,IN
+4,5,Frances,Quinn,31,Children's Clothes Designer,"Market Harborough, Leicestershire",Millionaire Banoffee Bonus,3,Biscuit Buttons and Beads,IN
+4,5,Glenn,Cosby,37,English Teacher,"Teignmouth, Devon",Apricot and Pistachio Tiffin,2,Shortbread and Macaron Helter-Skelter,IN
+4,5,Howard,Middleton,51,Council Worker,Sheffield,Breakfast Traybake,8,Japanese Pagoda Tea Tower,IN
+4,5,Kimberley,Wilson,30,Psychologist,London,Cherry and Almond Bakewell Florentine Slice,7,Black and White Viennese Biscuit Stack,IN
+4,5,Ruby,Tandoh,20,History of Art and Philosophy Student,"Southend, Essex",Blackberry and Lemon Bakewell Slice,6,'Dropped Ice-Cream' Biscuit Centrepiece,IN
+4,5,Robert,Smart,54,Space Satellite Designer,"Melbourn, Cambridgeshire",Blueberry & Orange Traybake,4,Dalek,OUT
+4,5,Christine,Wallace,66,Director of an engraving company,"Didcot, Oxfordshire",Mixed Berry and Almond Crumble Traybake,1,Shortbread Bavarian Clock Tower,STAR BAKER
+4,5,Ali,Imdad,25,Charity worker,"Saltley, Birmingham",NA,NA,NA,NA
+4,5,Deborah,Manger,51,Dentist,Peterborough,NA,NA,NA,NA
+4,5,Lucy,Bellamy,38,Horticulturist,"Grimsby, Lincolnshire",NA,NA,NA,NA
+4,5,Mark,Onley,37,Carpenter and Kitchen Fitter,Milton Keynes,NA,NA,NA,NA
+4,5,Toby,Waterworth,30,Web Programmer,"Reading, Berkshire",NA,NA,NA,NA
+4,6,Beca,Lyne-Pirkis,31,Military Wives' Choir Singer,"Aldershot, Hampshire",Bara Brith,6,Chocolate and Rum-Soaked Prune BriochesCardamom Spiced Lemon Iced Buns,IN
+4,6,Christine,Wallace,66,Director of an engraving company,"Didcot, Oxfordshire",Oxford Nutty Fruit Loaf,4,Schnecken BunsVanilla Custard Skolebrød,IN
+4,6,Frances,Quinn,31,Children's Clothes Designer,"Market Harborough, Leicestershire",Chai Tea Loaf,2,Hot Cross BriochesRhubarb and Custard Kolaches,IN
+4,6,Glenn,Cosby,37,English Teacher,"Teignmouth, Devon",Devonshire Panettone,5,Almond and Apricot BriochesSticky Caramel Kanelbullen,IN
+4,6,Kimberley,Wilson,30,Psychologist,London,Chai Spiced Ginger and Date Tea Loaf,3,Double Chocolate and Hazelnut BriochesDanish Kanelsnurrer,IN
+4,6,Howard,Middleton,51,Council Worker,Sheffield,Date & Hemp Yorkshire Loaf,7,Peachy BunsGerman Baumschnecken,OUT
+4,6,Ruby,Tandoh,20,History of Art and Philosophy Student,"Southend, Essex",Citrus Tea Loaf,1,Twisted Swedish KanelbullarSaffron St. Lucia Buns,STAR BAKER
+4,6,Ali,Imdad,25,Charity worker,"Saltley, Birmingham",NA,NA,NA,NA
+4,6,Deborah,Manger,51,Dentist,Peterborough,NA,NA,NA,NA
+4,6,Lucy,Bellamy,38,Horticulturist,"Grimsby, Lincolnshire",NA,NA,NA,NA
+4,6,Mark,Onley,37,Carpenter and Kitchen Fitter,Milton Keynes,NA,NA,NA,NA
+4,6,Robert,Smart,54,Space Satellite Designer,"Melbourn, Cambridgeshire",NA,NA,NA,NA
+4,6,Toby,Waterworth,30,Web Programmer,"Reading, Berkshire",NA,NA,NA,NA
+4,7,Beca,Lyne-Pirkis,31,Military Wives' Choir Singer,"Aldershot, Hampshire",Spring Lamb and Vegetable Suet Puddingwith Redcurrant Gravy,1,Nectarine and Frangipane SquaresChocolate and Hazelnut Vol-au-ventsStrawberries and Cream Mille-feuille,IN
+4,7,Christine,Wallace,66,Director of an engraving company,"Didcot, Oxfordshire",Spotted Dick 'With a Kick'and Vanilla Custard Ice Cream,6,Eccles CakesFresh Fruit BasketsLemon Cream Eton Mess Mille-feuille,IN
+4,7,Kimberley,Wilson,30,Psychologist,London,Barberry and Apple Spotted Dickwith Maple Syrup and White Chocolate Custard,4,"Pear, Malt and Butterscotch Mille-feuilleBlackberry and Lemon Verbena Crème Brûle Custard TartsFig, Orange and Thyme Galette",IN
+4,7,Ruby,Tandoh,20,History of Art and Philosophy Student,"Southend, Essex",Plum Jam Roly-Polywith Ginger Ice cream,2,Raspberry and Passion Fruit Mille-feuilleCaramelised Apple LatticePortuguese Custard Tarts,IN
+4,7,Glenn,Cosby,37,English Teacher,"Teignmouth, Devon",Prune and Armagnac Puddingwith Boozy Butterscotch Sauce,3,Caramelised Apple and Marzipan TartletsChocolate Elephant EarsPassion Fruit Mille-feuille,OUT
+4,7,Frances,Quinn,31,Children's Clothes Designer,"Market Harborough, Leicestershire",Figgy Roll-y Poly Puddingwith Caramelised Walnut and Honey Ice-Cream,5,French Framboise Cream HornsSheet Music Mille-feuilleBass Clef Palmiers,STAR BAKER
+4,7,Ali,Imdad,25,Charity worker,"Saltley, Birmingham",NA,NA,NA,NA
+4,7,Deborah,Manger,51,Dentist,Peterborough,NA,NA,NA,NA
+4,7,Howard,Middleton,51,Council Worker,Sheffield,NA,NA,NA,NA
+4,7,Lucy,Bellamy,38,Horticulturist,"Grimsby, Lincolnshire",NA,NA,NA,NA
+4,7,Mark,Onley,37,Carpenter and Kitchen Fitter,Milton Keynes,NA,NA,NA,NA
+4,7,Robert,Smart,54,Space Satellite Designer,"Melbourn, Cambridgeshire",NA,NA,NA,NA
+4,7,Toby,Waterworth,30,Web Programmer,"Reading, Berkshire",NA,NA,NA,NA
+4,8,Beca,Lyne-Pirkis,31,Military Wives' Choir Singer,"Aldershot, Hampshire","Potato, Spelt and Rosemary Focaccia",4,Spiced Butternut Squash and Pecan 'Cheese' Cake,IN
+4,8,Frances,Quinn,31,Children's Clothes Designer,"Market Harborough, Leicestershire",'Chelsea Flour Show' Bun Bouquet,3,"Hidden Carrot Cake (Ground Praline, Beetroot and Walnut)",IN
+4,8,Kimberley,Wilson,30,Psychologist,London,Wild Garlic Pesto and Parma Ham Spelt Loaf,2,Butternut Squash and Spice Cake Toadstool House,IN
+4,8,Christine,Wallace,66,Director of an engraving company,"Didcot, Oxfordshire","Multi-Seeded Loaf with Pumpkin, Sesame and Sunflower Seeds",5,Sweet Potato Guitar with Passion Fruit Icing and Marshmallow Fondant,OUT
+4,8,Ruby,Tandoh,20,History of Art and Philosophy Student,"Southend, Essex",Mango and Nigella Seed Spelt Cob,1,Carrot Cake and Pistachio Garden Plot,STAR BAKER
+4,8,Ali,Imdad,25,Charity worker,"Saltley, Birmingham",NA,NA,NA,NA
+4,8,Deborah,Manger,51,Dentist,Peterborough,NA,NA,NA,NA
+4,8,Glenn,Cosby,37,English Teacher,"Teignmouth, Devon",NA,NA,NA,NA
+4,8,Howard,Middleton,51,Council Worker,Sheffield,NA,NA,NA,NA
+4,8,Lucy,Bellamy,38,Horticulturist,"Grimsby, Lincolnshire",NA,NA,NA,NA
+4,8,Mark,Onley,37,Carpenter and Kitchen Fitter,Milton Keynes,NA,NA,NA,NA
+4,8,Robert,Smart,54,Space Satellite Designer,"Melbourn, Cambridgeshire",NA,NA,NA,NA
+4,8,Toby,Waterworth,30,Web Programmer,"Reading, Berkshire",NA,NA,NA,NA
+4,9,Frances,Quinn,31,Children's Clothes Designer,"Market Harborough, Leicestershire","Legume Canapés:
+Chantenay CarrotsChoux Pastry TomatoesCauliflower Cheese Scones",2,Great British Soap Opera Cake,IN
+4,9,Ruby,Tandoh,20,History of Art and Philosophy Student,"Southend, Essex","Beetroot Jelly on Poppy Seed BiscuitsSpinach, Parmesan and Egg TartletsChoux Buns with Goat's Cheese and Caramelised Onions",4,"Chocolate, Almond Praline and Saffron Opera Cake",IN
+4,9,Beca,Lyne-Pirkis,31,Military Wives' Choir Singer,"Aldershot, Hampshire",Stilton and Walnut MacaronsBeetroot and Salmon Choux PuffsWelsh Rarebit Tartlets,3,Banoffee Opera Cake,OUT
+4,9,Kimberley,Wilson,30,Psychologist,London,Pea Purée TartsCrab and Wasabi ProfiterolesSteamed Buns with Barbecue Chicken,1,Passion Fruit and Lime Opera Cake,STAR BAKER
+4,9,Ali,Imdad,25,Charity worker,"Saltley, Birmingham",NA,NA,NA,NA
+4,9,Christine,Wallace,66,Director of an engraving company,"Didcot, Oxfordshire",NA,NA,NA,NA
+4,9,Deborah,Manger,51,Dentist,Peterborough,NA,NA,NA,NA
+4,9,Glenn,Cosby,37,English Teacher,"Teignmouth, Devon",NA,NA,NA,NA
+4,9,Howard,Middleton,51,Council Worker,Sheffield,NA,NA,NA,NA
+4,9,Lucy,Bellamy,38,Horticulturist,"Grimsby, Lincolnshire",NA,NA,NA,NA
+4,9,Mark,Onley,37,Carpenter and Kitchen Fitter,Milton Keynes,NA,NA,NA,NA
+4,9,Robert,Smart,54,Space Satellite Designer,"Melbourn, Cambridgeshire",NA,NA,NA,NA
+4,9,Toby,Waterworth,30,Web Programmer,"Reading, Berkshire",NA,NA,NA,NA
+4,10,Kimberley,Wilson,30,Psychologist,London,Chicken and Pig Pie,1,Languages of Love Wedding Cake,Runner-up
+4,10,Ruby,Tandoh,20,History of Art and Philosophy Student,"Southend, Essex",Picnic Basket Pie,2,"Raspberry, Lemon and Passion Fruit Wedding Cake",Runner-up
+4,10,Frances,Quinn,31,Children's Clothes Designer,"Market Harborough, Leicestershire",Rainbow Picnic Pie,3,Midsummer Night's Dream Wedding Cake,WINNER
+4,10,Ali,Imdad,25,Charity worker,"Saltley, Birmingham",NA,NA,NA,NA
+4,10,Beca,Lyne-Pirkis,31,Military Wives' Choir Singer,"Aldershot, Hampshire",NA,NA,NA,NA
+4,10,Christine,Wallace,66,Director of an engraving company,"Didcot, Oxfordshire",NA,NA,NA,NA
+4,10,Deborah,Manger,51,Dentist,Peterborough,NA,NA,NA,NA
+4,10,Glenn,Cosby,37,English Teacher,"Teignmouth, Devon",NA,NA,NA,NA
+4,10,Howard,Middleton,51,Council Worker,Sheffield,NA,NA,NA,NA
+4,10,Lucy,Bellamy,38,Horticulturist,"Grimsby, Lincolnshire",NA,NA,NA,NA
+4,10,Mark,Onley,37,Carpenter and Kitchen Fitter,Milton Keynes,NA,NA,NA,NA
+4,10,Robert,Smart,54,Space Satellite Designer,"Melbourn, Cambridgeshire",NA,NA,NA,NA
+4,10,Toby,Waterworth,30,Web Programmer,"Reading, Berkshire",NA,NA,NA,NA
+5,1,Chetna,Makan,35,Fashion Designer,"Broadstairs, Kent","Cardamom, Pistachio and Coffee Swiss Roll",3,Tiered Victoria Sponges with Lemon Curd and Raspberry Cream,IN
+5,1,Diana,Beard,69,Women's Institute (WI) Judge,"Alkington, Shropshire",Mum's Sunday Tea Lemon Curd Swiss Roll,5,Chocolate Ganache Surprises,IN
+5,1,Enwezor,Nzegwu,39,Business Consultant,"Portsmouth, Hampshire",Raspberry and Lemon Swiss Roll,9,Coffee and Walnut Battenberg Squares,IN
+5,1,Iain,Watters,31,Construction Engineer,London/Belfast,Apricot and Basil Swiss Roll with Mascarpone and White Chocolate Cream,4,"Lemon Drizzle Cakes with Mascarpone Filling, Drizzled Icing, and Candied Lemon",IN
+5,1,Jordan,Cox,32,IT Manager,"Sneinton, Nottingham",Kawaii Frasier Swiss Roll,12,Lemon Drizzle Cakes with Blueberry and Lemon Curd,IN
+5,1,Kate,Henry,41,Furniture Restorer,"Brighton, East Sussex",Red Velvet and White Chocolate Swiss Roll,6,Mini Tiered Victoria Sponges,IN
+5,1,Luis,Troyano,42,Graphic Designer,"Poynton, Cheshire",Spanish Swiss Roll,7,Raspberry and Lemon Genoise Slices with Lemon Drizzles,IN
+5,1,Martha,Collison,17,Student,"Ascot, Berkshire",Tiramisu Swiss Roll,2,Mini Lemon and Thyme Drizzle Cakes,IN
+5,1,Norman,Calder,66,Retired Naval Officer,"Portknockie, Moray",Black Forest Swiss Roll,11,Almond and Raspberry Mini Cakes,IN
+5,1,Richard,Burr,38,Builder,"Mill Hill, London",Pistachio and Strawberry Swiss Roll,10,Miniature Coffee & Walnut Cakes,IN
+5,1,Claire,Goodwin,31,Speech Therapist,"Ashton upon Mersey, Trafford",Chocolatey Orangey Swirly Roll,8,Mini Chocolate and Cherry Cakes,OUT
+5,1,Nancy,Birtwhistle,60,Retired Practice Manager,"Barton-upon-Humber, Lincolnshire",Coffee and Hazelnut Swiss Roll,1,Jaffa Orange Cakes,STAR BAKER
+5,2,Chetna,Makan,35,Fashion Designer,"Broadstairs, Kent",Fenugreek and Carom Crackers,8,Day On The Beach,IN
+5,2,Diana,Beard,69,Women's Institute (WI) Judge,"Alkington, Shropshire",Parmesan Triangles,7,"Express, First Class",IN
+5,2,Iain,Watters,31,Construction Engineer,London/Belfast,Za'atar and Fig Biscuits,11,Wild West Scene,IN
+5,2,Jordan,Cox,32,IT Manager,"Sneinton, Nottingham","Sourdough, Parmesan and Chilli Biscuits",6,Monster Attack,IN
+5,2,Kate,Henry,41,Furniture Restorer,"Brighton, East Sussex",Parmesan and Apple Biscuits,4,Tea Time,IN
+5,2,Luis,Troyano,42,Graphic Designer,"Poynton, Cheshire",Black Olive and Rosemary Biscuits with Caramelised Onion Glaze,3,George Versus The Dragon,IN
+5,2,Martha,Collison,17,Student,"Ascot, Berkshire",Caramelised Onion and Goat's Cheese Sandwich Biscuits,5,Ski Village Scene,IN
+5,2,Nancy,Birtwhistle,60,Retired Practice Manager,"Barton-upon-Humber, Lincolnshire",Fennel and Rye Thins,2,Hansel and Gretel Scene,IN
+5,2,Norman,Calder,66,Retired Naval Officer,"Portknockie, Moray",Farthing Biscuits,10,Zulu Boats at Dawn,IN
+5,2,Enwezor,Nzegwu,39,Business Consultant,"Portsmouth, Hampshire",Pumpkin and Sunflower Savoury Biscuits,9,Space Adventure Moon Scene,OUT
+5,2,Richard,Burr,38,Builder,"Mill Hill, London",Rosemary Seeded Crackers,1,Pirates!,STAR BAKER
+5,2,Claire,Goodwin,31,Speech Therapist,"Ashton upon Mersey, Trafford",NA,NA,NA,NA
+5,3,Chetna,Makan,35,Fashion Designer,"Broadstairs, Kent",Onion and Pine Nut Rolls,8,Rolled and Filled Twin Loaf,IN
+5,3,Diana,Beard,69,Women's Institute (WI) Judge,"Alkington, Shropshire",Rustic Picnic Rolls,7,Sharing Savoury Pinwheel,IN
+5,3,Iain,Watters,31,Construction Engineer,London/Belfast,Cranberry and Walnut Rye Bread Rolls,9,Moroccan Plaited with a Bessara Dip,IN
+5,3,Kate,Henry,41,Furniture Restorer,"Brighton, East Sussex",Orange and Cardamom Rye Bread Knots,1,"Prosciutto, Olive and Coriander Bread",IN
+5,3,Martha,Collison,17,Student,"Ascot, Berkshire",Date and Walnut Rye Rolls,3,Stuffed Sunflower Loaf,IN
+5,3,Nancy,Birtwhistle,60,Retired Practice Manager,"Barton-upon-Humber, Lincolnshire",Cider and Walnut Crusty Rolls,5,'Full English' Stromboli,IN
+5,3,Norman,Calder,66,Retired Naval Officer,"Portknockie, Moray",Rye Bread Rolls,4,Chicken and Roasted Vegetable Picnic Loaf,IN
+5,3,Richard,Burr,38,Builder,"Mill Hill, London",Rye and Cranberry Rolls,6,Pesto Pinwheel,IN
+5,3,Jordan,Cox,32,IT Manager,"Sneinton, Nottingham",Rye and Spelt Bread Rolls,10,Strawberry Raspberry Cheesecake Brioche,OUT
+5,3,Luis,Troyano,42,Graphic Designer,"Poynton, Cheshire",Opposites Attract Rolls,2,Roscón de Reyes,STAR BAKER
+5,3,Claire,Goodwin,31,Speech Therapist,"Ashton upon Mersey, Trafford",NA,NA,NA,NA
+5,3,Enwezor,Nzegwu,39,Business Consultant,"Portsmouth, Hampshire",NA,NA,NA,NA
+5,4,Chetna,Makan,35,Fashion Designer,"Broadstairs, Kent","Rhubarb, Strawberry and Orange Puddings",3,"Mango, Raspberry and Coconut Baked Alaska",IN
+5,4,Diana,Beard,69,Women's Institute (WI) Judge,"Alkington, Shropshire",Orange and Lemon Curd Pots,9,Raspberry Ripple Alaska Swan,IN
+5,4,Kate,Henry,41,Furniture Restorer,"Brighton, East Sussex",Chocolate and Salted Caramel Molten Puddings,7,"Pistachio, Raspberry and Chocolate Baked Alaska",IN
+5,4,Luis,Troyano,42,Graphic Designer,"Poynton, Cheshire",Pears in Puddings,2,Bakewell Alaska,IN
+5,4,Martha,Collison,17,Student,"Ascot, Berkshire",Peanut Butter Chocolate Fondants,1,Key Lime Baked Alaska,IN
+5,4,Nancy,Birtwhistle,60,Retired Practice Manager,"Barton-upon-Humber, Lincolnshire",Pistachio Puddings with Chocolate Sauce,4,Summer Pudding Alaska,IN
+5,4,Norman,Calder,66,Retired Naval Officer,"Portknockie, Moray",Mini Sticky Toffee Puddings,8,Baked Alaska with Strawberry Surprise,IN
+5,4,Iain,Watters,31,Construction Engineer,London/Belfast,"Chocolate, Lime and Raspberry Fondants",6,"Chocolate, Black Sesame Seed and Coffee Caramel Baked Alaska (not presented)",OUT
+5,4,Richard,Burr,38,Builder,"Mill Hill, London",Black Forest Chocolate Fondants,5,Tiramisu Baked Alaska,STAR BAKER
+5,4,Claire,Goodwin,31,Speech Therapist,"Ashton upon Mersey, Trafford",NA,NA,NA,NA
+5,4,Enwezor,Nzegwu,39,Business Consultant,"Portsmouth, Hampshire",NA,NA,NA,NA
+5,4,Jordan,Cox,32,IT Manager,"Sneinton, Nottingham",NA,NA,NA,NA
+5,5,Chetna,Makan,35,Fashion Designer,"Broadstairs, Kent",Rice Custard Tart with Mangoes and Raspberries,2,Fusion Tiered Pies,IN
+5,5,Luis,Troyano,42,Graphic Designer,"Poynton, Cheshire",Tropical Manchester Tart,6,Four Fruity Seasons Tower,IN
+5,5,Martha,Collison,17,Student,"Ascot, Berkshire","Pistachio, Apricot and Honey Custard Tart",1,Three Little Pigs Pie,IN
+5,5,Nancy,Birtwhistle,60,Retired Practice Manager,"Barton-upon-Humber, Lincolnshire",Chocolate Crusted Passion Fruit Tart,4,Trio of Apple Pies,IN
+5,5,Richard,Burr,38,Builder,"Mill Hill, London",Fig and Orange Tart,7,Three Course Autumn Pie Feast,IN
+5,5,Norman,Calder,66,Retired Naval Officer,"Portknockie, Moray",Tarte au Citron,5,Pieful Tower,OUT
+5,5,Kate,Henry,41,Furniture Restorer,"Brighton, East Sussex",Rhubarb and Custard Tart,3,"Rhubarb, Prune and Apple Pies",STAR BAKER
+5,5,Diana,Beard,69,Women's Institute (WI) Judge,"Alkington, Shropshire",NA,NA,NA,WD
+5,5,Claire,Goodwin,31,Speech Therapist,"Ashton upon Mersey, Trafford",NA,NA,NA,NA
+5,5,Enwezor,Nzegwu,39,Business Consultant,"Portsmouth, Hampshire",NA,NA,NA,NA
+5,5,Iain,Watters,31,Construction Engineer,London/Belfast,NA,NA,NA,NA
+5,5,Jordan,Cox,32,IT Manager,"Sneinton, Nottingham",NA,NA,NA,NA
+5,6,Diana,Beard,69,Women's Institute (WI) Judge,"Alkington, Shropshire",NA,NA,NA,IN
+5,6,Kate,Henry,41,Furniture Restorer,"Brighton, East Sussex","Pecan, Chocolate and Sour Cherry Yeast Cake",6,Trio of Dobos Tortes,IN
+5,6,Luis,Troyano,42,Graphic Designer,"Poynton, Cheshire",Apple and Cinnamon Kugelhopf with Honeyed Apples,3,The Cage on the Rocky Hill,IN
+5,6,Martha,Collison,17,Student,"Ascot, Berkshire",Dark Chocolate and Almond Liqueur Savarin,4,Chess-Themed Chocolate and Salted Caramel Dobos Torte,IN
+5,6,Nancy,Birtwhistle,60,Retired Practice Manager,"Barton-upon-Humber, Lincolnshire",Rum Punch Savarin with Coconut Cream and Tropical Fruits,1,Chocolate and Caramel Dobos Torte,IN
+5,6,Richard,Burr,38,Builder,"Mill Hill, London",Fruity Guglhupf with an Orange Glaze,5,Sugar Forest Dobos Torte,IN
+5,6,Chetna,Makan,35,Fashion Designer,"Broadstairs, Kent",Orange Savarin with Cinnamon Cream,2,Almond Liqueur Dobos Torte with Chocolate Caramel Buttercream,STAR BAKER
+5,6,Claire,Goodwin,31,Speech Therapist,"Ashton upon Mersey, Trafford",NA,NA,NA,NA
+5,6,Enwezor,Nzegwu,39,Business Consultant,"Portsmouth, Hampshire",NA,NA,NA,NA
+5,6,Iain,Watters,31,Construction Engineer,London/Belfast,NA,NA,NA,NA
+5,6,Jordan,Cox,32,IT Manager,"Sneinton, Nottingham",NA,NA,NA,NA
+5,6,Norman,Calder,66,Retired Naval Officer,"Portknockie, Moray",NA,NA,NA,NA
+5,7,Chetna,Makan,35,Fashion Designer,"Broadstairs, Kent",Crispy Lentil Kachori,6,Chocolate and Mango & Lemon Meringue Éclairs,IN
+5,7,Diana,Beard,69,Women's Institute (WI) Judge,"Alkington, Shropshire",NA,NA,NA,IN
+5,7,Luis,Troyano,42,Graphic Designer,"Poynton, Cheshire",Childhood Empanadas,5,"Stars and Stripes Éclairs
+(Blueberry Cheesecake & Peanut Butter and Jelly Éclairs)",IN
+5,7,Martha,Collison,17,Student,"Ascot, Berkshire",Mini Beef Wellingtons,3,Rhubarb and Custard & Maple Syrup and Bacon Éclairs,IN
+5,7,Nancy,Birtwhistle,60,Retired Practice Manager,"Barton-upon-Humber, Lincolnshire",Spicy Duck Pasties,2,Smoked Salmon and Horseradish & Raspberry Ripple Éclairs,IN
+5,7,Kate,Henry,41,Furniture Restorer,"Brighton, East Sussex",Spinach and Paneer Spicy Samosa,4,Neapolitan & Lemon Meringue Éclairs,OUT
+5,7,Richard,Burr,38,Builder,"Mill Hill, London",Minted Lamb Pasties,1,"Stair of Éclairs
+(Lavender and Blueberry & Rose and Raspberry Éclairs)",STAR BAKER
+5,7,Claire,Goodwin,31,Speech Therapist,"Ashton upon Mersey, Trafford",NA,NA,NA,NA
+5,7,Enwezor,Nzegwu,39,Business Consultant,"Portsmouth, Hampshire",NA,NA,NA,NA
+5,7,Iain,Watters,31,Construction Engineer,London/Belfast,NA,NA,NA,NA
+5,7,Jordan,Cox,32,IT Manager,"Sneinton, Nottingham",NA,NA,NA,NA
+5,7,Norman,Calder,66,Retired Naval Officer,"Portknockie, Moray",NA,NA,NA,NA
+5,8,Chetna,Makan,35,Fashion Designer,"Broadstairs, Kent",Date and Walnut Swirl Bread,1,Chocolate Mousse Filled DoughnutsBraided Doughnuts,IN
+5,8,Diana,Beard,69,Women's Institute (WI) Judge,"Alkington, Shropshire",NA,NA,NA,IN
+5,8,Luis,Troyano,42,Graphic Designer,"Poynton, Cheshire",Black Forest Cherry Tree,2,"Cocktail Doughnuts
+(Mudslide & Raspberry Mojito)",IN
+5,8,Nancy,Birtwhistle,60,Retired Practice Manager,"Barton-upon-Humber, Lincolnshire",Lincolnshire Plum Braid,3,"Doughnut Family Tree
+(Limoncello and Almond & Milk Chocolate and Orange)",IN
+5,8,Martha,Collison,17,Student,"Ascot, Berkshire",Spiced Plum Iced Bread Swirl,5,Glazed Lemon & Poppy Seed DoughnutsChocolate & Passion Fruit Doughnuts,OUT
+5,8,Richard,Burr,38,Builder,"Mill Hill, London",Fruit Swedish Tea Ring,4,Rhubarb and Custard and Toffee Apple Doughnuts,STAR BAKER
+5,8,Claire,Goodwin,31,Speech Therapist,"Ashton upon Mersey, Trafford",NA,NA,NA,NA
+5,8,Enwezor,Nzegwu,39,Business Consultant,"Portsmouth, Hampshire",NA,NA,NA,NA
+5,8,Iain,Watters,31,Construction Engineer,London/Belfast,NA,NA,NA,NA
+5,8,Jordan,Cox,32,IT Manager,"Sneinton, Nottingham",NA,NA,NA,NA
+5,8,Kate,Henry,41,Furniture Restorer,"Brighton, East Sussex",NA,NA,NA,NA
+5,8,Norman,Calder,66,Retired Naval Officer,"Portknockie, Moray",NA,NA,NA,NA
+5,9,Diana,Beard,69,Women's Institute (WI) Judge,"Alkington, Shropshire",NA,NA,NA,IN
+5,9,Luis,Troyano,42,Graphic Designer,"Poynton, Cheshire",Indian Rose BaklavaHalwa Baklava Rolls,1,"Chocolate Mousse & Cherry EntremetsPomegranate, Fig & Pistachio Sponges",IN
+5,9,Nancy,Birtwhistle,60,Retired Practice Manager,"Barton-upon-Humber, Lincolnshire",Coffee and Chocolate BaklavaBreakfast Baklava,3,Raspberry NonnettesLime and Passion Fruit Entremets,IN
+5,9,Chetna,Makan,35,Fashion Designer,"Broadstairs, Kent",Chocolate Orange Baklava Masala Chai Baklava,4,"Chocolate, Orange & Nut EntremetsCappuccino Entremets",OUT
+5,9,Richard,Burr,38,Builder,"Mill Hill, London",Rose and Pistachio BaklavaWalnut and Almond Baklava,2,Hazelnut Mocha EntremetsPink Grapefruit Entremets,STAR BAKER
+5,9,Claire,Goodwin,31,Speech Therapist,"Ashton upon Mersey, Trafford",NA,NA,NA,NA
+5,9,Enwezor,Nzegwu,39,Business Consultant,"Portsmouth, Hampshire",NA,NA,NA,NA
+5,9,Iain,Watters,31,Construction Engineer,London/Belfast,NA,NA,NA,NA
+5,9,Jordan,Cox,32,IT Manager,"Sneinton, Nottingham",NA,NA,NA,NA
+5,9,Kate,Henry,41,Furniture Restorer,"Brighton, East Sussex",NA,NA,NA,NA
+5,9,Martha,Collison,17,Student,"Ascot, Berkshire",NA,NA,NA,NA
+5,9,Norman,Calder,66,Retired Naval Officer,"Portknockie, Moray",NA,NA,NA,NA
+5,10,Diana,Beard,69,Women's Institute (WI) Judge,"Alkington, Shropshire",NA,NA,NA,IN
+5,10,Luis,Troyano,42,Graphic Designer,"Poynton, Cheshire","Apple, Walnut, Raisin and Cheshire Cheese ChaussonsPain au Chocolat Blanc with Raspberries and Cream Cheese",2,Village in Chocolate,Runner-up
+5,10,Richard,Burr,38,Builder,"Mill Hill, London",Pear Pain au ChocolatPain Au Lait,3,Mill on the Hill,Runner-up
+5,10,Nancy,Birtwhistle,60,Retired Practice Manager,"Barton-upon-Humber, Lincolnshire",Apple and Lemon KitesRaspberry and Almond Croissants,1,Red Windmill,WINNER
+5,10,Chetna,Makan,35,Fashion Designer,"Broadstairs, Kent",NA,NA,NA,NA
+5,10,Claire,Goodwin,31,Speech Therapist,"Ashton upon Mersey, Trafford",NA,NA,NA,NA
+5,10,Enwezor,Nzegwu,39,Business Consultant,"Portsmouth, Hampshire",NA,NA,NA,NA
+5,10,Iain,Watters,31,Construction Engineer,London/Belfast,NA,NA,NA,NA
+5,10,Jordan,Cox,32,IT Manager,"Sneinton, Nottingham",NA,NA,NA,NA
+5,10,Kate,Henry,41,Furniture Restorer,"Brighton, East Sussex",NA,NA,NA,NA
+5,10,Martha,Collison,17,Student,"Ascot, Berkshire",NA,NA,NA,NA
+5,10,Norman,Calder,66,Retired Naval Officer,"Portknockie, Moray",NA,NA,NA,NA
+6,1,Alvin,Magallanes,37,Nurse,"Bracknell, Berkshire",Orange Vanilla and Fig Madeira Cake,2,Black Forest Gâteau,IN
+6,1,Dorret,Conway,53,Accountant,"Penwortham, Lancashire",Madeira Cake with Candied Lemons,5,Enchanted Forest Gâteau,IN
+6,1,Flora,Shedden,19,Art gallery assistant,"Dunkeld, Perth and Kinross",Blood Orange Madeira Cake,6,Black Forest Gâteau,IN
+6,1,Ian,Cumming,41,Travel photographer,"Great Wilbraham, Cambridgeshire",Somewhere West of Madeira Cake,8,Black Forest Cherry Tree,IN
+6,1,Mat,Riley,37,Fire fighter,London,Gin and Tonic Madeira Cake,7,Black Forest Gateau,IN
+6,1,Nadiya,Hussain,30,Full-time mother,Leeds / Luton,Orange and Green Cardamom Madeira Cake,12,Quadruple Chocolate Black Forest Gâteau,IN
+6,1,Paul,Jagger,49,Prison governor,"Swansea, Wales","Lemon, Ginger and Caraway Seed Madeira Cake",10,Black Forest Chocolate Creation,IN
+6,1,Sandy,Docherty,49,Child welfare officer,"Yeadon, West Yorkshire",Madeira Cake with Almond Liqueur and Chopped Apricots,9,Black Forest Gâteau,IN
+6,1,Tamal,Ray,29,Trainee anaesthetist,Manchester,Pistachio and Rose Madeira Cake,4,Black Forest Gâteau in a Chocolate Shell,IN
+6,1,Ugnė,Bubnaityte,32,PA and administrator,"Woodford, London / Vilkaviškis, Lithuania",Lemon and Thyme Madeira Cake,1,Falling Cup Gâteau,IN
+6,1,Stu,Henshall,35,Professional musician,"Guildford, Surrey",Marley Madeira Cake,11,Purple Forest Gâteau,OUT
+6,1,Marie,Campbell,66,Retired,"Auchterarder, Perthshire",Zingy Citrus Madeira Cake,3,A Walk in the Black Forest,STAR BAKER
+6,2,Alvin,Magallanes,37,Nurse,"Bracknell, Berkshire","Jackfruit, Pistachio and Macadamia Biscotti",6,Gingerbread Box filled with Brandy Snaps,IN
+6,2,Dorret,Conway,53,Accountant,"Penwortham, Lancashire",Almond and Apricot Biscotti with Amber Sugar Crystals,1,Box of Frogs,IN
+6,2,Flora,Shedden,19,Art gallery assistant,"Dunkeld, Perth and Kinross",Wedding Biscotti,2,Honey and Earl Grey Tea Box,IN
+6,2,Mat,Riley,37,Fire fighter,London,"Pistachio, Cranberry and White Chocolate Biscotti",5,Gingerbread Fire Engine,IN
+6,2,Nadiya,Hussain,30,Full-time mother,Leeds / Luton,"Coconut, Fennel and Pistachio Biscotti",9,Box of Fortunes,IN
+6,2,Paul,Jagger,49,Prison governor,"Swansea, Wales","Chocolate, Hazelnut and Fig Biscotti",10,Memory Box,IN
+6,2,Sandy,Docherty,49,Child welfare officer,"Yeadon, West Yorkshire",Chocolate Chunk and Hazelnut Biscotti,4,Sundried Tomato Cheese Biscuit Box,IN
+6,2,Tamal,Ray,29,Trainee anaesthetist,Manchester,"Cinnamon, Maple and Cranberry Biscotti",8,Chessboard Box,IN
+6,2,Ugnė,Bubnaityte,32,PA and administrator,"Woodford, London / Vilkaviškis, Lithuania",White Wine Biscotti,7,Baby Climbing into the Cookie Box,IN
+6,2,Marie,Campbell,66,Retired,"Auchterarder, Perthshire",Biscotti Italiano,11,Russian Box,OUT
+6,2,Ian,Cumming,41,Travel photographer,"Great Wilbraham, Cambridgeshire","Orange, Rosemary and Almond Biscotti",3,Sandwich de la Confiture,STAR BAKER
+6,2,Stu,Henshall,35,Professional musician,"Guildford, Surrey",NA,NA,NA,NA
+6,3,Alvin,Magallanes,37,Nurse,"Bracknell, Berkshire","Prosciutto, Manchego and Balsamic Onion Soda Breads",4,Cornucopia,IN
+6,3,Flora,Shedden,19,Art gallery assistant,"Dunkeld, Perth and Kinross",Fig and Hazelnut Rye Breads,2,Herb Couture,IN
+6,3,Mat,Riley,37,Fire fighter,London,"Jalapeño, Mexican Cheddar and Smoked Salt Soda Breads",8,Curry Inspired Brighton Pavilion,IN
+6,3,Nadiya,Hussain,30,Full-time mother,Leeds / Luton,Mexican Bread with Warm Tomato Salsa,9,Snake Charmer's Basket,IN
+6,3,Paul,Jagger,49,Prison governor,"Swansea, Wales",Cranberry and Orange Sweet Soda Breads,10,King of the Jungle,IN
+6,3,Sandy,Docherty,49,Child welfare officer,"Yeadon, West Yorkshire",Soda Breads with Smoked Bacon and Onion,7,Basket of Bread Flowers with a Walnut and Blue Cheese Centre,IN
+6,3,Tamal,Ray,29,Trainee anaesthetist,Manchester,"Fig, Cheese and Walnut Breads",3,Breadcycle,IN
+6,3,Ugnė,Bubnaityte,32,PA and administrator,"Woodford, London / Vilkaviškis, Lithuania",Chocolate Quick Breads with Salted Caramel Sauce,5,Easter Basket,IN
+6,3,Dorret,Conway,53,Accountant,"Penwortham, Lancashire",Walnut and Stilton Soda Breads,6,Unmade Bread,OUT
+6,3,Ian,Cumming,41,Travel photographer,"Great Wilbraham, Cambridgeshire",Wild Garlic Pesto Soda Breads,1,Flour Power,STAR BAKER
+6,3,Marie,Campbell,66,Retired,"Auchterarder, Perthshire",NA,NA,NA,NA
+6,3,Stu,Henshall,35,Professional musician,"Guildford, Surrey",NA,NA,NA,NA
+6,4,Alvin,Magallanes,37,Nurse,"Bracknell, Berkshire",Blackberry Crème Brûlées,9,Tower of Fruits Cheesecakes,IN
+6,4,Flora,Shedden,19,Art gallery assistant,"Dunkeld, Perth and Kinross",Rhubarb and Ginger Crème Brûlées,3,Elderflower and Granola Cheesecakes,IN
+6,4,Mat,Riley,37,Fire fighter,London,Coconut Crème Brûlées,7,Chocolate Bar Cheesecakes,IN
+6,4,Nadiya,Hussain,30,Full-time mother,Leeds / Luton,Cinnamon Tea Crème Brûlées,8,Fizzy Pop Cheesecakes,IN
+6,4,Paul,Jagger,49,Prison governor,"Swansea, Wales",Almond Crème Brûlées,1,Berry Cheesecake Tower,IN
+6,4,Tamal,Ray,29,Trainee anaesthetist,Manchester,Rhubarb and Ginger Crème Brûlées,5,"Mango, Hazelnut and Rosemary Cheesecake Trio",IN
+6,4,Ugnė,Bubnaityte,32,PA and administrator,"Woodford, London / Vilkaviškis, Lithuania",Marula Fruit and Coffee Liqueur Crème Brûlées,2,"Lime, Coconut and Hazelnut Cheesecakes",IN
+6,4,Sandy,Docherty,49,Child welfare officer,"Yeadon, West Yorkshire",Pontefract Crème Brûlées,6,"Cassata, Whisky and Orange & Apple Pie Cheesecakes",OUT
+6,4,Ian,Cumming,41,Travel photographer,"Great Wilbraham, Cambridgeshire",Pomegranate Two Ways Crème Brûlées,4,Trio of Spicy and Herby Baked Cheesecakes,STAR BAKER
+6,4,Dorret,Conway,53,Accountant,"Penwortham, Lancashire",NA,NA,NA,NA
+6,4,Marie,Campbell,66,Retired,"Auchterarder, Perthshire",NA,NA,NA,NA
+6,4,Stu,Henshall,35,Professional musician,"Guildford, Surrey",NA,NA,NA,NA
+6,5,Alvin,Magallanes,37,Nurse,"Bracknell, Berkshire",Pineapple Upside Down Cake,8,"Buko Pandan, Mango and Passion Fruit Ice Cream Roll",IN
+6,5,Flora,Shedden,19,Art gallery assistant,"Dunkeld, Perth and Kinross","Pistachio, Apple and Cardamom Madeleine Cake",3,Chocolate and Pear Bûche,IN
+6,5,Ian,Cumming,41,Travel photographer,"Great Wilbraham, Cambridgeshire",Honey and Flowers Cake,5,Dessert Island,IN
+6,5,Mat,Riley,37,Fire fighter,London,Sugar Free Carrot Cake,4,Raspberry and Coconut Ice Cream Roll,IN
+6,5,Paul,Jagger,49,Prison governor,"Swansea, Wales",Carrot & Pecan Cake,2,Dessert Island Getaway,IN
+6,5,Tamal,Ray,29,Trainee anaesthetist,Manchester,Honey and Grapefruit Polenta Cake,7,Passion Fruit and Pineapple Ice Cream Roll,IN
+6,5,Ugnė,Bubnaityte,32,PA and administrator,"Woodford, London / Vilkaviškis, Lithuania",Chocolate and Hazelnut Sugar-Free Cake,6,"Chocolate, Peanut Butter and Grape Jam Roll",OUT
+6,5,Nadiya,Hussain,30,Full-time mother,Leeds / Luton,Naked Blueberry and Caraway Crunch Cake,1,Chocolate and Strawberry Lime Ice Cream Roll,STAR BAKER
+6,5,Dorret,Conway,53,Accountant,"Penwortham, Lancashire",NA,NA,NA,NA
+6,5,Marie,Campbell,66,Retired,"Auchterarder, Perthshire",NA,NA,NA,NA
+6,5,Sandy,Docherty,49,Child welfare officer,"Yeadon, West Yorkshire",NA,NA,NA,NA
+6,5,Stu,Henshall,35,Professional musician,"Guildford, Surrey",NA,NA,NA,NA
+6,6,Flora,Shedden,19,Art gallery assistant,"Dunkeld, Perth and Kinross",Apricot and Rosemary Frangipane Tart,2,Asparagus and Parma Ham and Praline and Chocolate Vol-au-vents,IN
+6,6,Ian,Cumming,41,Travel photographer,"Great Wilbraham, Cambridgeshire",Pear and Raspberry Frangipane Tart,3,vol-au-vents Terre et Mer,IN
+6,6,Nadiya,Hussain,30,Full-time mother,Leeds / Luton,"Bay Leaf, Rong Tea and Pear Tart",4,Bengali Korma and Clementine with Cod Vol-au-vents,IN
+6,6,Paul,Jagger,49,Prison governor,"Swansea, Wales",Christmas Frangipane Tart,5,Savoury and Sweet Bouchées,IN
+6,6,Tamal,Ray,29,Trainee anaesthetist,Manchester,Spiced Pear Frangipane Tart,7,Fennel and Rosemary Pulled Pork and Chicken and Coriander vol-au-vents,IN
+6,6,Alvin,Magallanes,37,Nurse,"Bracknell, Berkshire",Plum Frangipane Tart,6,Smoked Salmon En Croûte and Vermouth Chicken à la King Vol-au-vents,OUT
+6,6,Mat,Riley,37,Fire fighter,London,Piña Colada Frangipane Tart,1,His 'n' Hers Vol-au-vents,STAR BAKER
+6,6,Dorret,Conway,53,Accountant,"Penwortham, Lancashire",NA,NA,NA,NA
+6,6,Marie,Campbell,66,Retired,"Auchterarder, Perthshire",NA,NA,NA,NA
+6,6,Sandy,Docherty,49,Child welfare officer,"Yeadon, West Yorkshire",NA,NA,NA,NA
+6,6,Stu,Henshall,35,Professional musician,"Guildford, Surrey",NA,NA,NA,NA
+6,6,Ugnė,Bubnaityte,32,PA and administrator,"Woodford, London / Vilkaviškis, Lithuania",NA,NA,NA,NA
+6,7,Flora,Shedden,19,Art gallery assistant,"Dunkeld, Perth and Kinross",Game Pie with Shallot and Apple Chutney,4,"Raspberry, Pomegranate and Champagne Charlotte Russe",IN
+6,7,Ian,Cumming,41,Travel photographer,"Great Wilbraham, Cambridgeshire",Roadkill Pie,5,Victoria's Crown Charlotte Russe,IN
+6,7,Nadiya,Hussain,30,Full-time mother,Leeds / Luton,Aromatic Raised Game Pie,1,Mango and Raspberry Charlotte Russe,IN
+6,7,Paul,Jagger,49,Prison governor,"Swansea, Wales",Not a Boaring Pie,2,Charlotte Rose,IN
+6,7,Mat,Riley,37,Fire fighter,London,Raised Venison and Pigeon Pie,6,Strawberry Charlotte Russe,OUT
+6,7,Tamal,Ray,29,Trainee anaesthetist,Manchester,Middle Eastern Game Pie,3,"Spiced Blackberry, Raspberry and Cardamom Charlotte Russe",STAR BAKER
+6,7,Alvin,Magallanes,37,Nurse,"Bracknell, Berkshire",NA,NA,NA,NA
+6,7,Dorret,Conway,53,Accountant,"Penwortham, Lancashire",NA,NA,NA,NA
+6,7,Marie,Campbell,66,Retired,"Auchterarder, Perthshire",NA,NA,NA,NA
+6,7,Sandy,Docherty,49,Child welfare officer,"Yeadon, West Yorkshire",NA,NA,NA,NA
+6,7,Stu,Henshall,35,Professional musician,"Guildford, Surrey",NA,NA,NA,NA
+6,7,Ugnė,Bubnaityte,32,PA and administrator,"Woodford, London / Vilkaviškis, Lithuania",NA,NA,NA,NA
+6,8,Flora,Shedden,19,Art gallery assistant,"Dunkeld, Perth and Kinross",Peach & Lemon Thyme and Smoked Almond & Butterscotch Cream Horns,3,Lime & Basil and Coconut & White Chocolate Religieuse à l'ancienne,IN
+6,8,Ian,Cumming,41,Travel photographer,"Great Wilbraham, Cambridgeshire",Mont Blanc & Black Forest Gâteau Horns,2,Nun with Hidden Passions,IN
+6,8,Tamal,Ray,29,Trainee anaesthetist,Manchester,Lime & Mascarpone and Malt Cream Horns,4,Passionfruit & Mango and Pistachio & Raspberry Religieuse à l'ancienne,IN
+6,8,Paul,Jagger,49,Prison governor,"Swansea, Wales",Café Tipple & Banana Crunch-away Horns,5,Religieuse à l'ancienne,OUT
+6,8,Nadiya,Hussain,30,Full-time mother,Leeds / Luton,Rose Pistachio and Mocha Hazelnut Horns,1,Bubble Gum and Peppermint Cream Religieuse à l'ancienne,STAR BAKER
+6,8,Alvin,Magallanes,37,Nurse,"Bracknell, Berkshire",NA,NA,NA,NA
+6,8,Dorret,Conway,53,Accountant,"Penwortham, Lancashire",NA,NA,NA,NA
+6,8,Marie,Campbell,66,Retired,"Auchterarder, Perthshire",NA,NA,NA,NA
+6,8,Mat,Riley,37,Fire fighter,London,NA,NA,NA,NA
+6,8,Sandy,Docherty,49,Child welfare officer,"Yeadon, West Yorkshire",NA,NA,NA,NA
+6,8,Stu,Henshall,35,Professional musician,"Guildford, Surrey",NA,NA,NA,NA
+6,8,Ugnė,Bubnaityte,32,PA and administrator,"Woodford, London / Vilkaviškis, Lithuania",NA,NA,NA,NA
+6,9,Ian,Cumming,41,Travel photographer,"Great Wilbraham, Cambridgeshire",Chocolate and Bay Tart,3,Chocolate Well,IN
+6,9,Tamal,Ray,29,Trainee anaesthetist,Manchester,Chocolate New York Pie,2,Chocolate Bell Tower,IN
+6,9,Flora,Shedden,19,Art gallery assistant,"Dunkeld, Perth and Kinross",Passion Fruit and Chocolate Tart,1,Cocoa Carousel,OUT
+6,9,Nadiya,Hussain,30,Full-time mother,Leeds / Luton,Peanut Salted Caramel and Chocolate Tart,4,Peacock in Nan's Door,STAR BAKER
+6,9,Alvin,Magallanes,37,Nurse,"Bracknell, Berkshire",NA,NA,NA,NA
+6,9,Dorret,Conway,53,Accountant,"Penwortham, Lancashire",NA,NA,NA,NA
+6,9,Marie,Campbell,66,Retired,"Auchterarder, Perthshire",NA,NA,NA,NA
+6,9,Mat,Riley,37,Fire fighter,London,NA,NA,NA,NA
+6,9,Paul,Jagger,49,Prison governor,"Swansea, Wales",NA,NA,NA,NA
+6,9,Sandy,Docherty,49,Child welfare officer,"Yeadon, West Yorkshire",NA,NA,NA,NA
+6,9,Stu,Henshall,35,Professional musician,"Guildford, Surrey",NA,NA,NA,NA
+6,9,Ugnė,Bubnaityte,32,PA and administrator,"Woodford, London / Vilkaviškis, Lithuania",NA,NA,NA,NA
+6,10,Ian,Cumming,41,Travel photographer,"Great Wilbraham, Cambridgeshire",Elderflower and Lemon & Spiced Buns,2,Colossal Curvy Carrot Cake,Runner-up
+6,10,Tamal,Ray,29,Trainee anaesthetist,Manchester,Cinnamon and Apple & Toffee and Marmalade Iced Buns,3,Sticky Toffee Pudding Cake,Runner-up
+6,10,Nadiya,Hussain,30,Full-time mother,Leeds / Luton,Cardamom and Almond Buns & Nutmeg and Sour Cherry Fingers,1,My Big Fat British Wedding Cake,WINNER
+6,10,Alvin,Magallanes,37,Nurse,"Bracknell, Berkshire",NA,NA,NA,NA
+6,10,Dorret,Conway,53,Accountant,"Penwortham, Lancashire",NA,NA,NA,NA
+6,10,Flora,Shedden,19,Art gallery assistant,"Dunkeld, Perth and Kinross",NA,NA,NA,NA
+6,10,Marie,Campbell,66,Retired,"Auchterarder, Perthshire",NA,NA,NA,NA
+6,10,Mat,Riley,37,Fire fighter,London,NA,NA,NA,NA
+6,10,Paul,Jagger,49,Prison governor,"Swansea, Wales",NA,NA,NA,NA
+6,10,Sandy,Docherty,49,Child welfare officer,"Yeadon, West Yorkshire",NA,NA,NA,NA
+6,10,Stu,Henshall,35,Professional musician,"Guildford, Surrey",NA,NA,NA,NA
+6,10,Ugnė,Bubnaityte,32,PA and administrator,"Woodford, London / Vilkaviškis, Lithuania",NA,NA,NA,NA
+7,1,Andrew,Smyth,25,Aerospace engineer,"Derby / Holywood, County Down",Lemon and Rosemary Drizzle Cake,12,'Ultimate Indulgence' Mirror Glaze Cake,IN
+7,1,Benjamina,Ebuehi,23,Teaching assistant,South London,"Pistachio, Cardamom and Lemon Drizzle Cake",6,White Chocolate Mirror Glaze with Salted Praline Buttercream,IN
+7,1,Candice,Brown,31,PE teacher,"Barton-Le-Clay, Bedfordshire",Raspberry and Rhubarb Drizzle Custard Bundt Cake,5,"Mirror Mirror On The Wall, Who Is The Shiniest Cake Of Them All?",IN
+7,1,Kate,Barmby,37,Nurse,"Brooke, Norfolk",Berry Best Apple and Bramble Drizzle Cake,4,One Swallow Does Not Make A Summer Cake,IN
+7,1,Louise,Williams,46,Hairdresser,Cardiff,Orange Liqueur and Lemonade Drizzle Cake,9,White Chocolate Trifle Mirror Glaze Cake,IN
+7,1,Michael,Georgiou,20,Student,Durham,"Lime, Ginger and Honey Drizzle Cake",3,Matcha Tea Chocolate Mirror Glaze,IN
+7,1,Rav,Bansal,28,Student support,Erith,Ginger Spice Yuzu Drizzle Cake,8,Colombian Mocha Mirror Glaze Cake,IN
+7,1,Selasi,Gbormittah,30,Client service associate,London,Citrus and Spice Drizzle Cake,1,"Raspberry, Sloe and White Chocolate Mirror Glaze Cake",IN
+7,1,Tom,Gilliford,26,Project engagement manager,Rochdale,G&T Drizzle Cake,2,Black Forest Broken Mirror,IN
+7,1,Val,Stones,66,"Semi-retired, Substitute teacher",Yeovil,Mum's Orange and Lemon Drizzle,10,Chocolate Sponge with Four Fruit Frosting,IN
+7,1,Lee,Banfield,67,Pastor,Bolton,St. Clements Orange and Lemon Drizzle Cake,11,Strawberry Surprise Mirror Cake,OUT
+7,1,Jane,Beedle,61,Garden designer,Beckenham,Lemon and Poppy Seed Drizzle Cake,7,Chocolate Orange Mirror Cake,STAR BAKER
+7,2,Andrew,Smyth,25,Aerospace engineer,"Derby / Holywood, County Down",Beehive Biscuits,4,Punting in Cambridge,IN
+7,2,Benjamina,Ebuehi,23,Teaching assistant,South London,Bouquet Biscuits,3,"New York, New York",IN
+7,2,Jane,Beedle,61,Garden designer,Beckenham,Flower Pot Iced Biscuits,2,Hastings Old Town Fishing Net Shops and Boat,IN
+7,2,Kate,Barmby,37,Nurse,"Brooke, Norfolk","""A Biscuit for the Broads""",1,"""I Promise I will do my best""",IN
+7,2,Michael,Georgiou,20,Student,Durham,"Malt, Chocolate and Orange Iced ""Beer"" Biscuits",9,Trip to See Santa in Lapland,IN
+7,2,Rav,Bansal,28,Student support,Erith,Union Jack Bunting Biscuits,6,Gingerbread Christmas Fairground,IN
+7,2,Selasi,Gbormittah,30,Client service associate,London,"""Wheelie Hot Iced Biscuits""",11,Stained Glass Window Gingerbread Church,IN
+7,2,Tom,Gilliford,26,Project engagement manager,Rochdale,Chai Frappelatteccino Biscuits,7,Tom and Pod's Near Death Experience,IN
+7,2,Val,Stones,66,"Semi-retired, Substitute teacher",Yeovil,Sunday Treat Iced Ice Cream Cone Biscuits,5,From Holland to New York via Yorkshire,IN
+7,2,Louise,Williams,46,Hairdresser,Cardiff,Baa Bara Brith Biscuits,10,Gingerbread Wedding,OUT
+7,2,Candice,Brown,31,PE teacher,"Barton-Le-Clay, Bedfordshire","Salted Caramel, Chocolate Iced Shiny Hearts",8,Gingerbread Pub with Sticky Ginger Carpet,STAR BAKER
+7,2,Lee,Banfield,67,Pastor,Bolton,NA,NA,NA,NA
+7,3,Andrew,Smyth,25,Aerospace engineer,"Derby / Holywood, County Down",Chocolate Barmbrack Bread,2,Braided Harvest Bread Basket,IN
+7,3,Benjamina,Ebuehi,23,Teaching assistant,South London,"Chocolate, Tahini and Almond Babka",6,Braided Bread Heart,IN
+7,3,Candice,Brown,31,PE teacher,"Barton-Le-Clay, Bedfordshire","Chocolate, Salted Caramel & Pecan Brittle Brioche Loaf",3,Italian Light and Dark Rye Twist,IN
+7,3,Jane,Beedle,61,Garden designer,Beckenham,Chocolate and Cranberry Couronne,9,Chorizo and Chilli Flower with Parmesan and Pesto Centre,IN
+7,3,Kate,Barmby,37,Nurse,"Brooke, Norfolk",Cobbled Loaf,8,The Corn Maiden,IN
+7,3,Rav,Bansal,28,Student support,Erith,"Chocolate, Cardamom and Hazelnut Loaf",10,Three Tier Diwali Bread Centrepiece,IN
+7,3,Selasi,Gbormittah,30,Client service associate,London,"Chocolate, Orange and Cinnamon Bread",5,Bedouin Escape Tear and Share Bread,IN
+7,3,Val,Stones,66,"Semi-retired, Substitute teacher",Yeovil,Double Chocolate Cinnamon Twist Loaf,1,"""And They All Went Into The Ark To Get Out Of The Rain""",IN
+7,3,Michael,Georgiou,20,Student,Durham,Chocolate and Chilli Swirl Plait,7,Cypriot Dove and Olive Branch Plaited Loaf with Houmous,OUT
+7,3,Tom,Gilliford,26,Project engagement manager,Rochdale,Chocolate Orange and Chilli Swirl Bread,4,Jörmungandr and Mjölnir,STAR BAKER
+7,3,Lee,Banfield,67,Pastor,Bolton,NA,NA,NA,NA
+7,3,Louise,Williams,46,Hairdresser,Cardiff,NA,NA,NA,NA
+7,4,Andrew,Smyth,25,Aerospace engineer,"Derby / Holywood, County Down",Yorkshire 'Tapas' Puddings,4,Churros Window Box,IN
+7,4,Candice,Brown,31,PE teacher,"Barton-Le-Clay, Bedfordshire",Yorkshire Wellingtons,2,Two-Way Peanut Butter Churros,IN
+7,4,Jane,Beedle,61,Garden designer,Beckenham,Meat and Two Veg Yorkshires,3,Pistachio and White Chocolate Churros,IN
+7,4,Rav,Bansal,28,Student support,Erith,Thai Tofu Panang Yorkshires,9,Three Dip Matcha Pistachio Churros,IN
+7,4,Selasi,Gbormittah,30,Client service associate,London,Perfect Sunday Roast Accompaniment,8,Lemon and Anise Churros,IN
+7,4,Tom,Gilliford,26,Project engagement manager,Rochdale,West Yorkshire Fusion Puddings,5,Fennel Churros Snake In The Grass,IN
+7,4,Val,Stones,66,"Semi-retired, Substitute teacher",Yeovil,Mum's Chilli Yorkshire Puddings,6,Orange Chocolate Churros,IN
+7,4,Kate,Barmby,37,Nurse,"Brooke, Norfolk",Christmas Dinner Compromise,7,Hot Cross Bunny Churros,OUT
+7,4,Benjamina,Ebuehi,23,Teaching assistant,South London,"Red Onion Chutney, Brie and Bacon Yorkshire Puddings",1,Tropical Churros,STAR BAKER
+7,4,Lee,Banfield,67,Pastor,Bolton,NA,NA,NA,NA
+7,4,Louise,Williams,46,Hairdresser,Cardiff,NA,NA,NA,NA
+7,4,Michael,Georgiou,20,Student,Durham,NA,NA,NA,NA
+7,5,Andrew,Smyth,25,Aerospace engineer,"Derby / Holywood, County Down",Mum and Dad's Breakfast Pastries,6,Spicy Chorizo Squash Parcels and Baklava Bites,IN
+7,5,Benjamina,Ebuehi,23,Teaching assistant,South London,'Good Morning America' Swirls and Peanut Butter and Banana Pinwheels,5,Plantain and Spinach Samosas and Chai Pear Cups,IN
+7,5,Jane,Beedle,61,Garden designer,Beckenham,"Orange Pain au Raisins, Raspberry, Chocolate and Almond Danish",1,"Roquefort, Fig and Walnut Parcels and Cherry and Chocolate Cones",IN
+7,5,Rav,Bansal,28,Student support,Erith,"Cinnamon Swirls and Pecan, Walnut and Maple Plaits",8,Chinese Style Prawn Filo Tartlets and Spiced White Chocolate and Hazelnut Samosas,IN
+7,5,Selasi,Gbormittah,30,Client service associate,London,"Rhubarb, Mango and Ginger Plait, and Pineapple and Coconut Pinwheels",3,"Parma Ham, Asparagus and Cheese Filo Cigars and Coffee Cream Filo Cups",IN
+7,5,Tom,Gilliford,26,Project engagement manager,Rochdale,Mega Breakfast Bonanzas; Granola Spirals and Wheat Foldovers,4,Yin and Yang Amuse-bouche,IN
+7,5,Val,Stones,66,"Semi-retired, Substitute teacher",Yeovil,"Pecan and Maple Syrup Pinwheels and Apple, Sultana and Cinnamon Swirls",7,"Caramelised Red Onion, Goats Cheese Tartlets and Mincemeat and Apple Spiced Parcels",OUT
+7,5,Candice,Brown,31,PE teacher,"Barton-Le-Clay, Bedfordshire","Danish Pastry Croque Monsieur Kites and Cinnamon Apple, Vanilla Crème Rose Danish",2,"Sausage, Black Pudding and Apple Rounds and Banoffee Whiskey Cups",STAR BAKER
+7,5,Kate,Barmby,37,Nurse,"Brooke, Norfolk",NA,NA,NA,NA
+7,5,Lee,Banfield,67,Pastor,Bolton,NA,NA,NA,NA
+7,5,Louise,Williams,46,Hairdresser,Cardiff,NA,NA,NA,NA
+7,5,Michael,Georgiou,20,Student,Durham,NA,NA,NA,NA
+7,6,Andrew,Smyth,25,Aerospace engineer,"Derby / Holywood, County Down",Tangy Lime and Ginger Meringue Pie,6,Spring Elderflower Trio,IN
+7,6,Benjamina,Ebuehi,23,Teaching assistant,South London,Grapefruit and Ginger Meringue Pie,2,Floral Tea Cake,IN
+7,6,Candice,Brown,31,PE teacher,"Barton-Le-Clay, Bedfordshire","Lime, Coconut and Lemongrass Sugar Meringue Pie",5,Four Seasons Cake,IN
+7,6,Jane,Beedle,61,Garden designer,Beckenham,Lime and Coconut Meringue Pie,4,Three Tier Orange Cake with a Floral Chocolate Collar,IN
+7,6,Selasi,Gbormittah,30,Client service associate,London,"Grapefruit, Orange and Mint Meringue Pie",7,Three Tiered Ombré Floral Cake,IN
+7,6,Rav,Bansal,28,Student support,Erith,Mandarin Margarita Meringue Pie,3,Blossom Cake,OUT
+7,6,Tom,Gilliford,26,Project engagement manager,Rochdale,Blood Orange Halloween Pumpkin Pie,1,Floral Tea Cake,STAR BAKER
+7,6,Kate,Barmby,37,Nurse,"Brooke, Norfolk",NA,NA,NA,NA
+7,6,Lee,Banfield,67,Pastor,Bolton,NA,NA,NA,NA
+7,6,Louise,Williams,46,Hairdresser,Cardiff,NA,NA,NA,NA
+7,6,Michael,Georgiou,20,Student,Durham,NA,NA,NA,NA
+7,6,Val,Stones,66,"Semi-retired, Substitute teacher",Yeovil,NA,NA,NA,NA
+7,7,Benjamina,Ebuehi,23,Teaching assistant,South London,Piña Colada Roulade,3,Apple Crumble Mousse Cake and Chocolate Coffee Mousse Cake,IN
+7,7,Candice,Brown,31,PE teacher,"Barton-Le-Clay, Bedfordshire",Crowd Pleaser Roulade,2,Blackberry and Raspberry Bubbles and After Dinner Mousse,IN
+7,7,Jane,Beedle,61,Garden designer,Beckenham,Chocolate and Hazelnut Roulade,4,"Chocolate, Coffee, and Vanilla Joconde Cakes and Blackcurrant and Vanilla Ombre Mousses",IN
+7,7,Selasi,Gbormittah,30,Client service associate,London,Summer Picnic Roulade,6,"Lemon, Strawberry and Passionfruit and Chocolate and Mint Mini Mousse Cakes",IN
+7,7,Tom,Gilliford,26,Project engagement manager,Rochdale,Millionaire's Roulade,5,Hipster Picnic,OUT
+7,7,Andrew,Smyth,25,Aerospace engineer,"Derby / Holywood, County Down",Tropical Holiday Roulade,1,Childhood Ice Cream Mousse Cakes,STAR BAKER
+7,7,Kate,Barmby,37,Nurse,"Brooke, Norfolk",NA,NA,NA,NA
+7,7,Lee,Banfield,67,Pastor,Bolton,NA,NA,NA,NA
+7,7,Louise,Williams,46,Hairdresser,Cardiff,NA,NA,NA,NA
+7,7,Michael,Georgiou,20,Student,Durham,NA,NA,NA,NA
+7,7,Rav,Bansal,28,Student support,Erith,NA,NA,NA,NA
+7,7,Val,Stones,66,"Semi-retired, Substitute teacher",Yeovil,NA,NA,NA,NA
+7,8,Andrew,Smyth,25,Aerospace engineer,"Derby / Holywood, County Down",Da Vinci Inspired Geared Pies,2,Jousting Knights Marchpane,IN
+7,8,Jane,Beedle,61,Garden designer,Beckenham,Tudor Rose Pies,5,Swans,IN
+7,8,Selasi,Gbormittah,30,Client service associate,London,Bouquet of Flowers,3,Fruity Tudor Marchpane,IN
+7,8,Benjamina,Ebuehi,23,Teaching assistant,South London,Mexican Adventure,4,Tudor Garden,OUT
+7,8,Candice,Brown,31,PE teacher,"Barton-Le-Clay, Bedfordshire",Cheesy Cheeky Fish Pies,1,Peacock,STAR BAKER
+7,8,Kate,Barmby,37,Nurse,"Brooke, Norfolk",NA,NA,NA,NA
+7,8,Lee,Banfield,67,Pastor,Bolton,NA,NA,NA,NA
+7,8,Louise,Williams,46,Hairdresser,Cardiff,NA,NA,NA,NA
+7,8,Michael,Georgiou,20,Student,Durham,NA,NA,NA,NA
+7,8,Rav,Bansal,28,Student support,Erith,NA,NA,NA,NA
+7,8,Tom,Gilliford,26,Project engagement manager,Rochdale,NA,NA,NA,NA
+7,8,Val,Stones,66,"Semi-retired, Substitute teacher",Yeovil,NA,NA,NA,NA
+7,9,Candice,Brown,31,PE teacher,"Barton-Le-Clay, Bedfordshire","Red Onion, Cambozola and Walnut Palmiers and Mushroom, Streaky Bacon, and Parmesan Palmiers",3,Chocolate Praline Fondant Fancies and Cherry Bakewell Fondant Fancies,IN
+7,9,Jane,Beedle,61,Garden designer,Beckenham,"Pesto and Sundried Tomato Palmiers and Goats Cheese, Olive and Parma Ham Palmiers",1,Pistachio and Raspberry Fondant Fancies and Lemon Curd Surprise Fondant Fancies,IN
+7,9,Selasi,Gbormittah,30,Client service associate,London,"Sundried Tomato, Onion, Peppers and Parmesan Palmiers and Salmon, Spinach and Mushroom Palmiers",4,Lime and Ginger Fondant Fancies and Pink Velvet and Raspberry Prosecco Fondant Fancies,OUT
+7,9,Andrew,Smyth,25,Aerospace engineer,"Derby / Holywood, County Down",Cheesy Elephant Ears and Herby Treble Clefs,2,Philharmonic Fondants,STAR BAKER
+7,9,Benjamina,Ebuehi,23,Teaching assistant,South London,NA,NA,NA,NA
+7,9,Kate,Barmby,37,Nurse,"Brooke, Norfolk",NA,NA,NA,NA
+7,9,Lee,Banfield,67,Pastor,Bolton,NA,NA,NA,NA
+7,9,Louise,Williams,46,Hairdresser,Cardiff,NA,NA,NA,NA
+7,9,Michael,Georgiou,20,Student,Durham,NA,NA,NA,NA
+7,9,Rav,Bansal,28,Student support,Erith,NA,NA,NA,NA
+7,9,Tom,Gilliford,26,Project engagement manager,Rochdale,NA,NA,NA,NA
+7,9,Val,Stones,66,"Semi-retired, Substitute teacher",Yeovil,NA,NA,NA,NA
+7,10,Andrew,Smyth,25,Aerospace engineer,"Derby / Holywood, County Down",Crunchy Caramel Cassis Crown,1,Family and Friends' Favourites Picnic,Runner-up
+7,10,Jane,Beedle,61,Garden designer,Beckenham,"Red, White and Blue Meringue Crown",3,Family Favourites Feast,Runner-up
+7,10,Candice,Brown,31,PE teacher,"Barton-Le-Clay, Bedfordshire",Queen Victoria's Mango and Strawberry Crown,2,Picnic for Pearly Kings and Queens,WINNER
+7,10,Benjamina,Ebuehi,23,Teaching assistant,South London,NA,NA,NA,NA
+7,10,Kate,Barmby,37,Nurse,"Brooke, Norfolk",NA,NA,NA,NA
+7,10,Lee,Banfield,67,Pastor,Bolton,NA,NA,NA,NA
+7,10,Louise,Williams,46,Hairdresser,Cardiff,NA,NA,NA,NA
+7,10,Michael,Georgiou,20,Student,Durham,NA,NA,NA,NA
+7,10,Rav,Bansal,28,Student support,Erith,NA,NA,NA,NA
+7,10,Selasi,Gbormittah,30,Client service associate,London,NA,NA,NA,NA
+7,10,Tom,Gilliford,26,Project engagement manager,Rochdale,NA,NA,NA,NA
+7,10,Val,Stones,66,"Semi-retired, Substitute teacher",Yeovil,NA,NA,NA,NA
+8,1,Chris,Geiger,50,Software developer,Bristol,Tropical Fresh Fruit Cake,12,'Raised Pork Pie and Egg Surprise' Cake,IN
+8,1,Flo,Atkins,71,Retired,Merseyside,Citrus Layer Cake,9,'One in a Melon' Cake,IN
+8,1,James,Hillery,46,Banker,"Brentwood, Essex","Orange, Rhubarb & Ginger Crumble Cake",2,'Mock-accino and Croissant' Cake,IN
+8,1,Julia,Chernogorova,21,Aviation Broker,"Crawley, West Sussex",Courgette and Lemon Cake,3,'Russian Doll' Cake,IN
+8,1,Kate,Lyon,29,Health and safety inspector,Merseyside,Moroccan Strawberry and Rose Cake,1,'Chocolate Terrarium' Cake,IN
+8,1,Liam,Charles,19,Student,North London,Apple and Almond Crumble Maple Loaf,8,'Stackin' Sunday' Cake,IN
+8,1,Sophie,Faldo,33,Former army officer and trainee stuntwoman,"West Molesey, Surrey",Pineapple and Coconut Sandwich Cake,5,'Champagne Bottle and Bucket' Cake,IN
+8,1,Stacey,Hart,42,Former school teacher,"Radlett, Hertfordshire",Granny Smith Apple and Walnut Cake,11,'Black Evening Clutch Bag' Cake,IN
+8,1,Tom,Hetherington,29,Architect,Edinburgh,Gilded Pear and Cardamom Cake,7,'Stack of Books' Cake,IN
+8,1,Yan,Tsou,46,Laboratory research scientist,North London,Windfall Apple Crumble Cake,4,'Banana-ramen' Cake,IN
+8,1,Peter,Abatan,52,IT programme manager,"Southend, Essex",Coconut Cake,10,'Bread on a Breadboard' Cake,OUT
+8,1,Steven,Carter-Bailey,34,Marketer,"Watford, Hertfordshire",Bonfire Night Cake,6,'A Baker's Lunch' Cake,STAR BAKER
+8,2,Flo,Atkins,71,Retired,Merseyside,Gin Jam Butties,10,'Pick My Bones' Game,IN
+8,2,James,Hillery,46,Banker,"Brentwood, Essex",Rhubarb and Custard Whirls,3,'Coppit' Game,IN
+8,2,Julia,Chernogorova,21,Aviation Broker,"Crawley, West Sussex",Middle Eastern Delight Sandwich Biscuits,4,'A British Baking' Game,IN
+8,2,Kate,Lyon,29,Health and safety inspector,Merseyside,Coconut Seashells for a Titanic Afternoon Tea,8,'Jungle' Game,IN
+8,2,Liam,Charles,19,Student,North London,Coffee Malted Pecan Shorties,7,'Classroom Classics' Game,IN
+8,2,Sophie,Faldo,33,Former army officer and trainee stuntwoman,"West Molesey, Surrey",Lemon Limoncino Sandwich Biscuits,2,'Snakes and Ladders' Game,IN
+8,2,Stacey,Hart,42,Former school teacher,"Radlett, Hertfordshire",Sparkly Chocolate and Marshmallow Fluff Cookies,9,'Get to School' Game,IN
+8,2,Tom,Hetherington,29,Architect,Edinburgh,Coffee and Amaretto Kisses,5,'Drain Pipes and Ladders' Game,IN
+8,2,Yan,Tsou,46,Laboratory research scientist,North London,'Mrs. Marian's PB 'n' B' Biscuits,1,'Adventures in Bakeland' Game,IN
+8,2,Chris,Geiger,50,Software developer,Bristol,Chocolate Chia Seed Biscuits with Whisky Caramel Filling,11,'The Great British Sail Off' Game,OUT
+8,2,Steven,Carter-Bailey,34,Marketer,"Watford, Hertfordshire",Amarpressi Biscuits,6,'Check Bake' Game,STAR BAKER
+8,2,Peter,Abatan,52,IT programme manager,"Southend, Essex",NA,NA,NA,NA
+8,3,James,Hillery,46,Banker,"Brentwood, Essex",Nordic Teacakes,9,'Owl in the Woods' Bread Sculpture,IN
+8,3,Kate,Lyon,29,Health and safety inspector,Merseyside,Blueberry Buns,10,'Kraken' Bread Sculpture,IN
+8,3,Liam,Charles,19,Student,North London,Jamaican Spiced Teacakes,5,'Kneadapolitan' Bread Sculpture,IN
+8,3,Sophie,Faldo,33,Former army officer and trainee stuntwoman,"West Molesey, Surrey",Tagine Teacakes,6,'Picnic Basket' Bread Sculpture,IN
+8,3,Stacey,Hart,42,Former school teacher,"Radlett, Hertfordshire",Cranberry and Cinnamon Teacakes,1,'Ascot Hat' Bread Sculpture,IN
+8,3,Steven,Carter-Bailey,34,Marketer,"Watford, Hertfordshire",Madras Cocktail Teacakes,3,'The Bag I Knead' Bread Sculpture,IN
+8,3,Tom,Hetherington,29,Architect,Edinburgh,Orange and Cranberry Teacakes,4,'Pink & Yellow Rose Centrepiece' Bread Sculpture,IN
+8,3,Yan,Tsou,46,Laboratory research scientist,North London,'Mrs P's' Masala Chai Spiced Teacakes,8,'Basil the Vegetarian Dragon with his Pumpkin Hoard' Bread Sculpture,IN
+8,3,Flo,Atkins,71,Retired,Merseyside,Cinnamon and Orange Teacakes,7,'Davy Jones' Locker' Bread Sculpture,OUT
+8,3,Julia,Chernogorova,21,Aviation Broker,"Crawley, West Sussex",Earl Grey Dried Fruit Teacakes,2,'The Snail Under a Mushroom' Bread Sculpture,STAR BAKER
+8,3,Chris,Geiger,50,Software developer,Bristol,NA,NA,NA,NA
+8,3,Peter,Abatan,52,IT programme manager,"Southend, Essex",NA,NA,NA,NA
+8,4,James,Hillery,46,Banker,"Brentwood, Essex",'Windy City' Millionaire Shortbreads,2,Nutty Caramel Cake,IN
+8,4,Julia,Chernogorova,21,Aviation Broker,"Crawley, West Sussex",Pecan Salted Caramel Millionaire Shortbreads,9,Poppy Seed Caramel Cake,IN
+8,4,Liam,Charles,19,Student,North London,Salted Peanut Butter Millionaire Shortbreads,3,White Layered Ginger Caramel Cake,IN
+8,4,Sophie,Faldo,33,Former army officer and trainee stuntwoman,"West Molesey, Surrey",Jaffa Millionaire Shortbreads,4,Bird's Nest Caramel Cake,IN
+8,4,Stacey,Hart,42,Former school teacher,"Radlett, Hertfordshire",Rum Salted Caramel Millionaire Shortbreads,1,Chocolate and Coffee Caramel Cake,IN
+8,4,Steven,Carter-Bailey,34,Marketer,"Watford, Hertfordshire",Orange Macadamia Nut Millionaire Shortbreads,7,Caramel Crown Cake,IN
+8,4,Yan,Tsou,46,Laboratory research scientist,North London,'Lil' Red's Ginger and Nuts' Millionaire Shortbreads,8,Animals of the Rainforest Caramel Cake,IN
+8,4,Tom,Hetherington,29,Architect,Edinburgh,Stem Ginger Caramel Shortbreads,5,Hummingbird Cake,OUT
+8,4,Kate,Lyon,29,Health and safety inspector,Merseyside,Salted Bay Caramel Millionaire Shortbreads,6,Sticky Toffee Apple Caramel Cake,STAR BAKER
+8,4,Chris,Geiger,50,Software developer,Bristol,NA,NA,NA,NA
+8,4,Flo,Atkins,71,Retired,Merseyside,NA,NA,NA,NA
+8,4,Peter,Abatan,52,IT programme manager,"Southend, Essex",NA,NA,NA,NA
+8,5,Julia,Chernogorova,21,Aviation Broker,"Crawley, West Sussex",Orange & Treacle Steamed School Pudding,3,'Opulent Ornament' Trifle Terrine,IN
+8,5,Kate,Lyon,29,Health and safety inspector,Merseyside,'Mr Darcy's Steamy Lake Scene' Steamed School Pudding,8,'My Great Great Nan's' Raspberry Trifle Terrine,IN
+8,5,Liam,Charles,19,Student,North London,Cherries & Lemons that are 'Baked Well',2,'Cheers Lads' Trifle Terrine,IN
+8,5,Stacey,Hart,42,Former school teacher,"Radlett, Hertfordshire",Bakewell Tart Steamed School Pudding,4,Tropical Trifle Terrine,IN
+8,5,Steven,Carter-Bailey,34,Marketer,"Watford, Hertfordshire",Lemon & Blackcurrant Drizzle Steamed School Pudding,5,'From Across the Jelly Pond' Trifle Terrine,IN
+8,5,Yan,Tsou,46,Laboratory research scientist,North London,Mango Fruit Hat Steamed School Pudding,6,'Heart of a Hero' Trifle Terrine,IN
+8,5,James,Hillery,46,Banker,"Brentwood, Essex",Orange and Ginger Steamed School Pudding,7,'The Missed Silver Jubilee' Trifle Terrine,OUT
+8,5,Sophie,Faldo,33,Former army officer and trainee stuntwoman,"West Molesey, Surrey","Ginger, Fig and Honey Steamed School Pudding",1,"Raspberry, Yuzu & White Chocolate Bûche Trifle Terrine",STAR BAKER
+8,5,Chris,Geiger,50,Software developer,Bristol,NA,NA,NA,NA
+8,5,Flo,Atkins,71,Retired,Merseyside,NA,NA,NA,NA
+8,5,Peter,Abatan,52,IT programme manager,"Southend, Essex",NA,NA,NA,NA
+8,5,Tom,Hetherington,29,Architect,Edinburgh,NA,NA,NA,NA
+8,6,Kate,Lyon,29,Health and safety inspector,Merseyside,'Vegetarian Pie Faces' Decorative Pies,5,Potato Curry Pie with Mango & Chilli Glaze,IN
+8,6,Sophie,Faldo,33,Former army officer and trainee stuntwoman,"West Molesey, Surrey",'The Four Seasons' Decorative Pies,2,Game Pie with Glazed Forest Fruits,IN
+8,6,Stacey,Hart,42,Former school teacher,"Radlett, Hertfordshire",'Love Theme' Decorative Pies,6,Indian Hand Raised Pie with Mango,IN
+8,6,Steven,Carter-Bailey,34,Marketer,"Watford, Hertfordshire",'Fleetwood Mac' Decorative Pies,3,Christmas Pie,IN
+8,6,Yan,Tsou,46,Laboratory research scientist,North London,'πr2' Decorative Pies,1,Chequerboard Pie,IN
+8,6,Julia,Chernogorova,21,Aviation Broker,"Crawley, West Sussex",'Pies from the Tree' Decorative Pies,7,'Special Occasion' Pie,OUT
+8,6,Liam,Charles,19,Student,North London,'Standard FC' Decorative Pies,4,'Nan's Sunday Dinner' Pie,STAR BAKER
+8,6,Chris,Geiger,50,Software developer,Bristol,NA,NA,NA,NA
+8,6,Flo,Atkins,71,Retired,Merseyside,NA,NA,NA,NA
+8,6,James,Hillery,46,Banker,"Brentwood, Essex",NA,NA,NA,NA
+8,6,Peter,Abatan,52,IT programme manager,"Southend, Essex",NA,NA,NA,NA
+8,6,Tom,Hetherington,29,Architect,Edinburgh,NA,NA,NA,NA
+8,7,Kate,Lyon,29,Health and safety inspector,Merseyside,'Happy Hour' Cocktail Cannoli,6,'Flavour Fusion' Sfogliatelle,IN
+8,7,Liam,Charles,19,Student,North London,'Just Doing Me' Cannoli,2,'Morning Delivery' Sfogliatelle,IN
+8,7,Sophie,Faldo,33,Former army officer and trainee stuntwoman,"West Molesey, Surrey",'Classics with a Twist' Cannoli,3,'Classics' Sfogliatelle,IN
+8,7,Stacey,Hart,42,Former school teacher,"Radlett, Hertfordshire",My All Time Favourite Desserts,4,Pastry Surprise,IN
+8,7,Yan,Tsou,46,Laboratory research scientist,North London,Cannoli Cocktails,5,Canadian-Style Sfogliatelle,OUT
+8,7,Steven,Carter-Bailey,34,Marketer,"Watford, Hertfordshire",Italian Style Cannoli,1,'Sicilian-style' Sfogliatelle,STAR BAKER
+8,7,Chris,Geiger,50,Software developer,Bristol,NA,NA,NA,NA
+8,7,Flo,Atkins,71,Retired,Merseyside,NA,NA,NA,NA
+8,7,James,Hillery,46,Banker,"Brentwood, Essex",NA,NA,NA,NA
+8,7,Julia,Chernogorova,21,Aviation Broker,"Crawley, West Sussex",NA,NA,NA,NA
+8,7,Peter,Abatan,52,IT programme manager,"Southend, Essex",NA,NA,NA,NA
+8,7,Tom,Hetherington,29,Architect,Edinburgh,NA,NA,NA,NA
+8,8,Kate,Lyon,29,Health and safety inspector,Merseyside,Burrito Bedfordshire Clangers,2,'Liver Building Turret' Savoy Cake,IN
+8,8,Sophie,Faldo,33,Former army officer and trainee stuntwoman,"West Molesey, Surrey",Char Siu & Banana Praline Bedfordshire Clangers,4,Citrus with Green Apple Croquembouche Savoy Cake,IN
+8,8,Steven,Carter-Bailey,34,Marketer,"Watford, Hertfordshire",'Mediterranean Medley' Bedfordshire Clangers,1,Chestnut Rum Savoy Cake,IN
+8,8,Liam,Charles,19,Student,North London,'Take Out' Bedfordshire Clangers,5,'Fort Wizardore' Savoy Cake,OUT
+8,8,Stacey,Hart,42,Former school teacher,"Radlett, Hertfordshire",Camembert & Onion and Apple & Blueberry Bedfordshire Clangers,3,'Bright' Lemon & Orange Savoy Cake,STAR BAKER
+8,8,Chris,Geiger,50,Software developer,Bristol,NA,NA,NA,NA
+8,8,Flo,Atkins,71,Retired,Merseyside,NA,NA,NA,NA
+8,8,James,Hillery,46,Banker,"Brentwood, Essex",NA,NA,NA,NA
+8,8,Julia,Chernogorova,21,Aviation Broker,"Crawley, West Sussex",NA,NA,NA,NA
+8,8,Peter,Abatan,52,IT programme manager,"Southend, Essex",NA,NA,NA,NA
+8,8,Tom,Hetherington,29,Architect,Edinburgh,NA,NA,NA,NA
+8,8,Yan,Tsou,46,Laboratory research scientist,North London,NA,NA,NA,NA
+8,9,Kate,Lyon,29,Health and safety inspector,Merseyside,Bellini and Valencian Orange Choux Buns,4,'Rainbow' Meringue Centrepiece,IN
+8,9,Steven,Carter-Bailey,34,Marketer,"Watford, Hertfordshire",Key Lime Cheesecake and Bakewell Tart Choux Buns,3,'Some Air Over the Rainbow' Meringue Centrepiece,IN
+8,9,Stacey,Hart,42,Former school teacher,"Radlett, Hertfordshire",'Choux-nicorn and Choux-moji' Choux Buns,2,'Flamingos in Love' Meringue Centrepiece,OUT
+8,9,Sophie,Faldo,33,Former army officer and trainee stuntwoman,"West Molesey, Surrey",Strawberry & Rhubarb and Chestnut & Vanilla Choux Buns,1,'Tutu with Opera Filling' Meringue Centrepiece,STAR BAKER
+8,9,Chris,Geiger,50,Software developer,Bristol,NA,NA,NA,NA
+8,9,Flo,Atkins,71,Retired,Merseyside,NA,NA,NA,NA
+8,9,James,Hillery,46,Banker,"Brentwood, Essex",NA,NA,NA,NA
+8,9,Julia,Chernogorova,21,Aviation Broker,"Crawley, West Sussex",NA,NA,NA,NA
+8,9,Liam,Charles,19,Student,North London,NA,NA,NA,NA
+8,9,Peter,Abatan,52,IT programme manager,"Southend, Essex",NA,NA,NA,NA
+8,9,Tom,Hetherington,29,Architect,Edinburgh,NA,NA,NA,NA
+8,9,Yan,Tsou,46,Laboratory research scientist,North London,NA,NA,NA,NA
+8,10,Kate,Lyon,29,Health and safety inspector,Merseyside,"Roman Spelt, Coconut Kala Chana and Flower Breads",3,"White Chocolate, Yuzu and Lychee Entremet",Runner-up
+8,10,Steven,Carter-Bailey,34,Marketer,"Watford, Hertfordshire","Spelt & Rye, Toasted Garlic & Fontina and Sweet Chocolate Breads",1,'Yin Yang' Entremet,Runner-up
+8,10,Sophie,Faldo,33,Former army officer and trainee stuntwoman,"West Molesey, Surrey","Spelt Boules, Mushroom Ciabatta and Orange Plaited Brioche",2,'Ode to the Honey Bee' Entremet,WINNER
+8,10,Chris,Geiger,50,Software developer,Bristol,NA,NA,NA,NA
+8,10,Flo,Atkins,71,Retired,Merseyside,NA,NA,NA,NA
+8,10,James,Hillery,46,Banker,"Brentwood, Essex",NA,NA,NA,NA
+8,10,Julia,Chernogorova,21,Aviation Broker,"Crawley, West Sussex",NA,NA,NA,NA
+8,10,Liam,Charles,19,Student,North London,NA,NA,NA,NA
+8,10,Peter,Abatan,52,IT programme manager,"Southend, Essex",NA,NA,NA,NA
+8,10,Stacey,Hart,42,Former school teacher,"Radlett, Hertfordshire",NA,NA,NA,NA
+8,10,Tom,Hetherington,29,Architect,Edinburgh,NA,NA,NA,NA
+8,10,Yan,Tsou,46,Laboratory research scientist,North London,NA,NA,NA,NA
+9,1,Antony,Amourdoux,30,Banker,London,NA,12,NA,IN
+9,1,Briony,Williams,33,Full-time parent,Bristol,NA,2,NA,IN
+9,1,Dan,Beasley-Harling,36,Full-time parent,London,NA,4,NA,IN
+9,1,Jon,Jenkins,47,Blood courier,Newport,NA,5,NA,IN
+9,1,Karen,Wright,60,In-store sampling assistant,Wakefield,NA,6,NA,IN
+9,1,Kim-Joy,Hewlett,27,Mental health specialist,Leeds,NA,10,NA,IN
+9,1,Luke,Thompson,30,Civil servant/house and techno DJ,Sheffield,NA,8,NA,IN
+9,1,Rahul,Mandal,30,Research scientist,Rotherham,NA,7,NA,IN
+9,1,Ruby,Bhogal,29,Project manager,London,NA,1,NA,IN
+9,1,Terry,Hartill,56,Retired air steward,West Midlands,NA,9,NA,IN
+9,1,Imelda,McCarron,33,Countryside recreation officer,County Tyrone,NA,11,NA,OUT
+9,1,Manon,Lagrave,26,Software project manager,London,NA,3,NA,STAR BAKER
+9,2,Antony,Amourdoux,30,Banker,London,NA,9,NA,IN
+9,2,Briony,Williams,33,Full-time parent,Bristol,NA,5,NA,IN
+9,2,Dan,Beasley-Harling,36,Full-time parent,London,NA,3,NA,IN
+9,2,Jon,Jenkins,47,Blood courier,Newport,NA,1,NA,IN
+9,2,Karen,Wright,60,In-store sampling assistant,Wakefield,NA,11,NA,IN
+9,2,Kim-Joy,Hewlett,27,Mental health specialist,Leeds,NA,4,NA,IN
+9,2,Manon,Lagrave,26,Software project manager,London,NA,6,NA,IN
+9,2,Ruby,Bhogal,29,Project manager,London,NA,10,NA,IN
+9,2,Terry,Hartill,56,Retired air steward,West Midlands,NA,8,NA,IN
+9,2,Luke,Thompson,30,Civil servant/house and techno DJ,Sheffield,NA,7,NA,OUT
+9,2,Rahul,Mandal,30,Research scientist,Rotherham,NA,2,NA,STAR BAKER
+9,2,Imelda,McCarron,33,Countryside recreation officer,County Tyrone,NA,NA,NA,NA
+9,3,Briony,Williams,33,Full-time parent,Bristol,NA,9,NA,IN
+9,3,Dan,Beasley-Harling,36,Full-time parent,London,NA,6,NA,IN
+9,3,Jon,Jenkins,47,Blood courier,Newport,NA,2,NA,IN
+9,3,Karen,Wright,60,In-store sampling assistant,Wakefield,NA,5,NA,IN
+9,3,Kim-Joy,Hewlett,27,Mental health specialist,Leeds,NA,10,NA,IN
+9,3,Manon,Lagrave,26,Software project manager,London,NA,3,NA,IN
+9,3,Ruby,Bhogal,29,Project manager,London,NA,7,NA,IN
+9,3,Terry,Hartill,56,Retired air steward,West Midlands,NA,1,NA,IN
+9,3,Antony,Amourdoux,30,Banker,London,NA,8,NA,OUT
+9,3,Rahul,Mandal,30,Research scientist,Rotherham,NA,4,NA,STAR BAKER
+9,3,Imelda,McCarron,33,Countryside recreation officer,County Tyrone,NA,NA,NA,NA
+9,3,Luke,Thompson,30,Civil servant/house and techno DJ,Sheffield,NA,NA,NA,NA
+9,4,Terry,Hartill,56,Retired air steward,West Midlands,NA,NA,NA,[a]
+9,4,Briony,Williams,33,Full-time parent,Bristol,NA,5,NA,IN
+9,4,Jon,Jenkins,47,Blood courier,Newport,NA,3,NA,IN
+9,4,Karen,Wright,60,In-store sampling assistant,Wakefield,NA,7,NA,IN
+9,4,Kim-Joy,Hewlett,27,Mental health specialist,Leeds,NA,6,NA,IN
+9,4,Manon,Lagrave,26,Software project manager,London,NA,8,NA,IN
+9,4,Rahul,Mandal,30,Research scientist,Rotherham,NA,4,NA,IN
+9,4,Ruby,Bhogal,29,Project manager,London,NA,2,NA,IN
+9,4,Dan,Beasley-Harling,36,Full-time parent,London,NA,1,NA,STAR BAKER
+9,4,Antony,Amourdoux,30,Banker,London,NA,NA,NA,NA
+9,4,Imelda,McCarron,33,Countryside recreation officer,County Tyrone,NA,NA,NA,NA
+9,4,Luke,Thompson,30,Civil servant/house and techno DJ,Sheffield,NA,NA,NA,NA
+9,5,Briony,Williams,33,Full-time parent,Bristol,NA,6,NA,IN
+9,5,Dan,Beasley-Harling,36,Full-time parent,London,NA,2,NA,IN
+9,5,Jon,Jenkins,47,Blood courier,Newport,NA,7,NA,IN
+9,5,Manon,Lagrave,26,Software project manager,London,NA,5,NA,IN
+9,5,Rahul,Mandal,30,Research scientist,Rotherham,NA,3,NA,IN
+9,5,Ruby,Bhogal,29,Project manager,London,NA,1,NA,IN
+9,5,Karen,Wright,60,In-store sampling assistant,Wakefield,NA,9,NA,OUT
+9,5,Terry,Hartill,56,Retired air steward,West Midlands,NA,8,NA,OUT
+9,5,Kim-Joy,Hewlett,27,Mental health specialist,Leeds,NA,4,NA,STAR BAKER
+9,5,Antony,Amourdoux,30,Banker,London,NA,NA,NA,NA
+9,5,Imelda,McCarron,33,Countryside recreation officer,County Tyrone,NA,NA,NA,NA
+9,5,Luke,Thompson,30,Civil servant/house and techno DJ,Sheffield,NA,NA,NA,NA
+9,6,Jon,Jenkins,47,Blood courier,Newport,NA,2,NA,IN
+9,6,Kim-Joy,Hewlett,27,Mental health specialist,Leeds,NA,5,NA,IN
+9,6,Manon,Lagrave,26,Software project manager,London,NA,4,NA,IN
+9,6,Rahul,Mandal,30,Research scientist,Rotherham,NA,3,NA,IN
+9,6,Ruby,Bhogal,29,Project manager,London,NA,7,NA,IN
+9,6,Dan,Beasley-Harling,36,Full-time parent,London,NA,6,NA,OUT
+9,6,Briony,Williams,33,Full-time parent,Bristol,NA,1,NA,STAR BAKER
+9,6,Antony,Amourdoux,30,Banker,London,NA,NA,NA,NA
+9,6,Imelda,McCarron,33,Countryside recreation officer,County Tyrone,NA,NA,NA,NA
+9,6,Karen,Wright,60,In-store sampling assistant,Wakefield,NA,NA,NA,NA
+9,6,Luke,Thompson,30,Civil servant/house and techno DJ,Sheffield,NA,NA,NA,NA
+9,6,Terry,Hartill,56,Retired air steward,West Midlands,NA,NA,NA,NA
+9,7,Briony,Williams,33,Full-time parent,Bristol,NA,5,NA,IN
+9,7,Manon,Lagrave,26,Software project manager,London,NA,2,NA,IN
+9,7,Rahul,Mandal,30,Research scientist,Rotherham,NA,1,NA,IN
+9,7,Ruby,Bhogal,29,Project manager,London,NA,3,NA,IN
+9,7,Jon,Jenkins,47,Blood courier,Newport,NA,4,NA,OUT
+9,7,Kim-Joy,Hewlett,27,Mental health specialist,Leeds,NA,6,NA,STAR BAKER
+9,7,Antony,Amourdoux,30,Banker,London,NA,NA,NA,NA
+9,7,Dan,Beasley-Harling,36,Full-time parent,London,NA,NA,NA,NA
+9,7,Imelda,McCarron,33,Countryside recreation officer,County Tyrone,NA,NA,NA,NA
+9,7,Karen,Wright,60,In-store sampling assistant,Wakefield,NA,NA,NA,NA
+9,7,Luke,Thompson,30,Civil servant/house and techno DJ,Sheffield,NA,NA,NA,NA
+9,7,Terry,Hartill,56,Retired air steward,West Midlands,NA,NA,NA,NA
+9,8,Briony,Williams,33,Full-time parent,Bristol,NA,1,NA,IN
+9,8,Kim-Joy,Hewlett,27,Mental health specialist,Leeds,NA,2,NA,IN
+9,8,Rahul,Mandal,30,Research scientist,Rotherham,NA,5,NA,IN
+9,8,Manon,Lagrave,26,Software project manager,London,NA,4,NA,OUT
+9,8,Ruby,Bhogal,29,Project manager,London,NA,3,NA,STAR BAKER
+9,8,Antony,Amourdoux,30,Banker,London,NA,NA,NA,NA
+9,8,Dan,Beasley-Harling,36,Full-time parent,London,NA,NA,NA,NA
+9,8,Imelda,McCarron,33,Countryside recreation officer,County Tyrone,NA,NA,NA,NA
+9,8,Jon,Jenkins,47,Blood courier,Newport,NA,NA,NA,NA
+9,8,Karen,Wright,60,In-store sampling assistant,Wakefield,NA,NA,NA,NA
+9,8,Luke,Thompson,30,Civil servant/house and techno DJ,Sheffield,NA,NA,NA,NA
+9,8,Terry,Hartill,56,Retired air steward,West Midlands,NA,NA,NA,NA
+9,9,Kim-Joy,Hewlett,27,Mental health specialist,Leeds,NA,2,NA,IN
+9,9,Rahul,Mandal,30,Research scientist,Rotherham,NA,4,NA,IN
+9,9,Briony,Williams,33,Full-time parent,Bristol,NA,3,NA,OUT
+9,9,Ruby,Bhogal,29,Project manager,London,NA,1,NA,STAR BAKER
+9,9,Antony,Amourdoux,30,Banker,London,NA,NA,NA,NA
+9,9,Dan,Beasley-Harling,36,Full-time parent,London,NA,NA,NA,NA
+9,9,Imelda,McCarron,33,Countryside recreation officer,County Tyrone,NA,NA,NA,NA
+9,9,Jon,Jenkins,47,Blood courier,Newport,NA,NA,NA,NA
+9,9,Karen,Wright,60,In-store sampling assistant,Wakefield,NA,NA,NA,NA
+9,9,Luke,Thompson,30,Civil servant/house and techno DJ,Sheffield,NA,NA,NA,NA
+9,9,Manon,Lagrave,26,Software project manager,London,NA,NA,NA,NA
+9,9,Terry,Hartill,56,Retired air steward,West Midlands,NA,NA,NA,NA
+9,10,Kim-Joy,Hewlett,27,Mental health specialist,Leeds,NA,1,NA,Runner-up
+9,10,Ruby,Bhogal,29,Project manager,London,NA,3,NA,Runner-up
+9,10,Rahul,Mandal,30,Research scientist,Rotherham,NA,2,NA,WINNER
+9,10,Antony,Amourdoux,30,Banker,London,NA,NA,NA,NA
+9,10,Briony,Williams,33,Full-time parent,Bristol,NA,NA,NA,NA
+9,10,Dan,Beasley-Harling,36,Full-time parent,London,NA,NA,NA,NA
+9,10,Imelda,McCarron,33,Countryside recreation officer,County Tyrone,NA,NA,NA,NA
+9,10,Jon,Jenkins,47,Blood courier,Newport,NA,NA,NA,NA
+9,10,Karen,Wright,60,In-store sampling assistant,Wakefield,NA,NA,NA,NA
+9,10,Luke,Thompson,30,Civil servant/house and techno DJ,Sheffield,NA,NA,NA,NA
+9,10,Manon,Lagrave,26,Software project manager,London,NA,NA,NA,NA
+9,10,Terry,Hartill,56,Retired air steward,West Midlands,NA,NA,NA,NA
+10,1,Alice,Fevronia,28,Geography teacher,Essex,NA,5,NA,IN
+10,1,Amelia,LeBruin,24,Fashion designer,Halifax,NA,4,NA,IN
+10,1,David,Atherton,36,International health adviser,Whitby,NA,10,NA,IN
+10,1,Helena,Garcia,40,Online project manager,Leeds,NA,12,NA,IN
+10,1,Henry,Bird,20,Student,Durham,NA,1,NA,IN
+10,1,Jamie,Finn,20,Part-time waiter,Surrey,NA,13,NA,IN
+10,1,Michael,Chakraverty,26,Theatre manager/fitness instructor,Stratford-upon-Avon,NA,11,NA,IN
+10,1,Phil,Thorne,56,HGV driver,Rainham,NA,8,NA,IN
+10,1,Priya,O'Shea,34,Marketing consultant,Leicester,NA,7,NA,IN
+10,1,Rosie,Brandreth-Poynter,28,Veterinary surgeon,Somerset,NA,2,NA,IN
+10,1,Steph,Blackwell,28,Shop assistant,Chester,NA,3,NA,IN
+10,1,Dan,Chambers,32,Support worker,Rotherham,NA,9,NA,OUT
+10,1,Michelle,Evans-Fecci,35,Print shop administrator,"Tenby, Wales",NA,6,NA,STAR BAKER
+10,2,Amelia,LeBruin,24,Fashion designer,Halifax,NA,9,NA,IN
+10,2,David,Atherton,36,International health adviser,Whitby,NA,2,NA,IN
+10,2,Helena,Garcia,40,Online project manager,Leeds,NA,12,NA,IN
+10,2,Henry,Bird,20,Student,Durham,NA,6,NA,IN
+10,2,Michael,Chakraverty,26,Theatre manager/fitness instructor,Stratford-upon-Avon,NA,4,NA,IN
+10,2,Michelle,Evans-Fecci,35,Print shop administrator,"Tenby, Wales",NA,8,NA,IN
+10,2,Phil,Thorne,56,HGV driver,Rainham,NA,3,NA,IN
+10,2,Priya,O'Shea,34,Marketing consultant,Leicester,NA,7,NA,IN
+10,2,Rosie,Brandreth-Poynter,28,Veterinary surgeon,Somerset,NA,5,NA,IN
+10,2,Steph,Blackwell,28,Shop assistant,Chester,NA,10,NA,IN
+10,2,Jamie,Finn,20,Part-time waiter,Surrey,NA,11,NA,OUT
+10,2,Alice,Fevronia,28,Geography teacher,Essex,NA,1,NA,STAR BAKER
+10,2,Dan,Chambers,32,Support worker,Rotherham,NA,NA,NA,NA
+10,3,Alice,Fevronia,28,Geography teacher,Essex,NA,7,NA,IN
+10,3,David,Atherton,36,International health adviser,Whitby,NA,2,NA,IN
+10,3,Helena,Garcia,40,Online project manager,Leeds,NA,8,NA,IN
+10,3,Henry,Bird,20,Student,Durham,NA,1,NA,IN
+10,3,Michelle,Evans-Fecci,35,Print shop administrator,"Tenby, Wales",NA,5,NA,IN
+10,3,Phil,Thorne,56,HGV driver,Rainham,NA,10,NA,IN
+10,3,Priya,O'Shea,34,Marketing consultant,Leicester,NA,4,NA,IN
+10,3,Rosie,Brandreth-Poynter,28,Veterinary surgeon,Somerset,NA,9,NA,IN
+10,3,Steph,Blackwell,28,Shop assistant,Chester,NA,3,NA,IN
+10,3,Amelia,LeBruin,24,Fashion designer,Halifax,NA,11,NA,OUT
+10,3,Michael,Chakraverty,26,Theatre manager/fitness instructor,Stratford-upon-Avon,NA,6,NA,STAR BAKER
+10,3,Dan,Chambers,32,Support worker,Rotherham,NA,NA,NA,NA
+10,3,Jamie,Finn,20,Part-time waiter,Surrey,NA,NA,NA,NA
+10,4,Alice,Fevronia,28,Geography teacher,Essex,NA,8,NA,IN
+10,4,David,Atherton,36,International health adviser,Whitby,NA,2,NA,IN
+10,4,Helena,Garcia,40,Online project manager,Leeds,NA,9,NA,IN
+10,4,Henry,Bird,20,Student,Durham,NA,3,NA,IN
+10,4,Michael,Chakraverty,26,Theatre manager/fitness instructor,Stratford-upon-Avon,NA,7,NA,IN
+10,4,Michelle,Evans-Fecci,35,Print shop administrator,"Tenby, Wales",NA,5,NA,IN
+10,4,Priya,O'Shea,34,Marketing consultant,Leicester,NA,10,NA,IN
+10,4,Rosie,Brandreth-Poynter,28,Veterinary surgeon,Somerset,NA,4,NA,IN
+10,4,Phil,Thorne,56,HGV driver,Rainham,NA,6,NA,OUT
+10,4,Steph,Blackwell,28,Shop assistant,Chester,NA,1,NA,STAR BAKER
+10,4,Amelia,LeBruin,24,Fashion designer,Halifax,NA,NA,NA,NA
+10,4,Dan,Chambers,32,Support worker,Rotherham,NA,NA,NA,NA
+10,4,Jamie,Finn,20,Part-time waiter,Surrey,NA,NA,NA,NA
+10,5,Alice,Fevronia,28,Geography teacher,Essex,NA,6,NA,IN
+10,5,David,Atherton,36,International health adviser,Whitby,NA,9,NA,IN
+10,5,Henry,Bird,20,Student,Durham,NA,3,NA,IN
+10,5,Michael,Chakraverty,26,Theatre manager/fitness instructor,Stratford-upon-Avon,NA,8,NA,IN
+10,5,Priya,O'Shea,34,Marketing consultant,Leicester,NA,2,NA,IN
+10,5,Rosie,Brandreth-Poynter,28,Veterinary surgeon,Somerset,NA,5,NA,IN
+10,5,Helena,Garcia,40,Online project manager,Leeds,NA,1,NA,OUT
+10,5,Michelle,Evans-Fecci,35,Print shop administrator,"Tenby, Wales",NA,7,NA,OUT
+10,5,Steph,Blackwell,28,Shop assistant,Chester,NA,4,NA,STAR BAKER
+10,5,Amelia,LeBruin,24,Fashion designer,Halifax,NA,NA,NA,NA
+10,5,Dan,Chambers,32,Support worker,Rotherham,NA,NA,NA,NA
+10,5,Jamie,Finn,20,Part-time waiter,Surrey,NA,NA,NA,NA
+10,5,Phil,Thorne,56,HGV driver,Rainham,NA,NA,NA,NA
+10,6,Alice,Fevronia,28,Geography teacher,Essex,NA,1,NA,IN
+10,6,David,Atherton,36,International health adviser,Whitby,NA,2,NA,IN
+10,6,Henry,Bird,20,Student,Durham,NA,4,NA,IN
+10,6,Michael,Chakraverty,26,Theatre manager/fitness instructor,Stratford-upon-Avon,NA,6,NA,IN
+10,6,Rosie,Brandreth-Poynter,28,Veterinary surgeon,Somerset,NA,5,NA,IN
+10,6,Priya,O'Shea,34,Marketing consultant,Leicester,NA,7,NA,OUT
+10,6,Steph,Blackwell,28,Shop assistant,Chester,NA,3,NA,STAR BAKER
+10,6,Amelia,LeBruin,24,Fashion designer,Halifax,NA,NA,NA,NA
+10,6,Dan,Chambers,32,Support worker,Rotherham,NA,NA,NA,NA
+10,6,Helena,Garcia,40,Online project manager,Leeds,NA,NA,NA,NA
+10,6,Jamie,Finn,20,Part-time waiter,Surrey,NA,NA,NA,NA
+10,6,Michelle,Evans-Fecci,35,Print shop administrator,"Tenby, Wales",NA,NA,NA,NA
+10,6,Phil,Thorne,56,HGV driver,Rainham,NA,NA,NA,NA
+10,7,Alice,Fevronia,28,Geography teacher,Essex,NA,6,NA,IN
+10,7,David,Atherton,36,International health adviser,Whitby,NA,2,NA,IN
+10,7,Rosie,Brandreth-Poynter,28,Veterinary surgeon,Somerset,NA,1,NA,IN
+10,7,Steph,Blackwell,28,Shop assistant,Chester,NA,4,NA,IN
+10,7,Michael,Chakraverty,26,Theatre manager/fitness instructor,Stratford-upon-Avon,NA,5,NA,OUT
+10,7,Henry,Bird,20,Student,Durham,NA,3,NA,STAR BAKER
+10,7,Amelia,LeBruin,24,Fashion designer,Halifax,NA,NA,NA,NA
+10,7,Dan,Chambers,32,Support worker,Rotherham,NA,NA,NA,NA
+10,7,Helena,Garcia,40,Online project manager,Leeds,NA,NA,NA,NA
+10,7,Jamie,Finn,20,Part-time waiter,Surrey,NA,NA,NA,NA
+10,7,Michelle,Evans-Fecci,35,Print shop administrator,"Tenby, Wales",NA,NA,NA,NA
+10,7,Phil,Thorne,56,HGV driver,Rainham,NA,NA,NA,NA
+10,7,Priya,O'Shea,34,Marketing consultant,Leicester,NA,NA,NA,NA
+10,8,Alice,Fevronia,28,Geography teacher,Essex,NA,3,NA,IN
+10,8,David,Atherton,36,International health adviser,Whitby,NA,1,NA,IN
+10,8,Rosie,Brandreth-Poynter,28,Veterinary surgeon,Somerset,NA,2,NA,IN
+10,8,Henry,Bird,20,Student,Durham,NA,5,NA,OUT
+10,8,Steph,Blackwell,28,Shop assistant,Chester,NA,4,NA,STAR BAKER
+10,8,Amelia,LeBruin,24,Fashion designer,Halifax,NA,NA,NA,NA
+10,8,Dan,Chambers,32,Support worker,Rotherham,NA,NA,NA,NA
+10,8,Helena,Garcia,40,Online project manager,Leeds,NA,NA,NA,NA
+10,8,Jamie,Finn,20,Part-time waiter,Surrey,NA,NA,NA,NA
+10,8,Michael,Chakraverty,26,Theatre manager/fitness instructor,Stratford-upon-Avon,NA,NA,NA,NA
+10,8,Michelle,Evans-Fecci,35,Print shop administrator,"Tenby, Wales",NA,NA,NA,NA
+10,8,Phil,Thorne,56,HGV driver,Rainham,NA,NA,NA,NA
+10,8,Priya,O'Shea,34,Marketing consultant,Leicester,NA,NA,NA,NA
+10,9,David,Atherton,36,International health adviser,Whitby,NA,2,NA,IN
+10,9,Steph,Blackwell,28,Shop assistant,Chester,NA,3,NA,IN
+10,9,Rosie,Brandreth-Poynter,28,Veterinary surgeon,Somerset,NA,1,NA,OUT
+10,9,Alice,Fevronia,28,Geography teacher,Essex,NA,4,NA,STAR BAKER
+10,9,Amelia,LeBruin,24,Fashion designer,Halifax,NA,NA,NA,NA
+10,9,Dan,Chambers,32,Support worker,Rotherham,NA,NA,NA,NA
+10,9,Helena,Garcia,40,Online project manager,Leeds,NA,NA,NA,NA
+10,9,Henry,Bird,20,Student,Durham,NA,NA,NA,NA
+10,9,Jamie,Finn,20,Part-time waiter,Surrey,NA,NA,NA,NA
+10,9,Michael,Chakraverty,26,Theatre manager/fitness instructor,Stratford-upon-Avon,NA,NA,NA,NA
+10,9,Michelle,Evans-Fecci,35,Print shop administrator,"Tenby, Wales",NA,NA,NA,NA
+10,9,Phil,Thorne,56,HGV driver,Rainham,NA,NA,NA,NA
+10,9,Priya,O'Shea,34,Marketing consultant,Leicester,NA,NA,NA,NA
+10,10,Alice,Fevronia,28,Geography teacher,Essex,NA,2,NA,Runner-up
+10,10,Steph,Blackwell,28,Shop assistant,Chester,NA,3,NA,Runner-up
+10,10,David,Atherton,36,International health adviser,Whitby,NA,1,NA,WINNER
+10,10,Amelia,LeBruin,24,Fashion designer,Halifax,NA,NA,NA,NA
+10,10,Dan,Chambers,32,Support worker,Rotherham,NA,NA,NA,NA
+10,10,Helena,Garcia,40,Online project manager,Leeds,NA,NA,NA,NA
+10,10,Henry,Bird,20,Student,Durham,NA,NA,NA,NA
+10,10,Jamie,Finn,20,Part-time waiter,Surrey,NA,NA,NA,NA
+10,10,Michael,Chakraverty,26,Theatre manager/fitness instructor,Stratford-upon-Avon,NA,NA,NA,NA
+10,10,Michelle,Evans-Fecci,35,Print shop administrator,"Tenby, Wales",NA,NA,NA,NA
+10,10,Phil,Thorne,56,HGV driver,Rainham,NA,NA,NA,NA
+10,10,Priya,O'Shea,34,Marketing consultant,Leicester,NA,NA,NA,NA
+10,10,Rosie,Brandreth-Poynter,28,Veterinary surgeon,Somerset,NA,NA,NA,NA
