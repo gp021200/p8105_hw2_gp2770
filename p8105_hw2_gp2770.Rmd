@@ -22,7 +22,7 @@ nyc_transit_data
 
 ```
 
-The resulting dataset contains information about each entrance and exit for each subway station in NYC, including details such as the subway line, station name, geographic coordinates, routes served, entrance type, and ADA compliance status. Till now, I have standardized the variable names by converting them to lower snake case, selected and retained the relevant variables, and recoded the entry variable from a character class with "YES" and "NO" values to a logical class with "TRUE" and "FALSE" values. The dataset currently has 1,868 rows and 19 columns. However, the data is not yet tidy, as the multiple columns for route numbers (routes 1 through 11) represent values themselves, rather than being captured as a single variable. 
+The resulting dataset contains information about each entrance and exit for each subway station in NYC, including details such as the subway line, station name, geographic coordinates, routes served, entrance type, and ADA compliance status. Till now, I have standardized the variable names by converting them to lower snake case, selected and retained the relevant variables, and recoded the entry variable from a character class with "YES" and "NO" values to a logical class with "TRUE" and "FALSE" values. The dataset currently has 1,868 rows and 19 columns. However, the data is not yet tidy, as the multiple columns for route numbers (routes 1 through 11) represent values themselves, rather than being captured as a single variable.
 
 Finding the number of distinct stations
 
@@ -45,7 +45,7 @@ nyc_transit_data %>%
 
 ```
 
-Out of the 465 distinct stations, 84 stations are ADA compliant. 
+Out of the 465 distinct stations, 84 stations are ADA compliant.
 
 Proportion of station entrances/exits without vending that allow entrance
 
@@ -64,7 +64,7 @@ without_vending / with_vending
 
 ```
 
-0.377 is the proportion of station entrances/exits without vending that allow entrances. 
+0.377 is the proportion of station entrances/exits without vending that allow entrances.
 
 Reformatting the data to make route number and route name distinct variables
 
@@ -199,7 +199,7 @@ combined_trash_wheel_data
 
 ```
 
-The combined Trash Wheel dataset contains a total of `r nrow(combinedtrash_wheel_data)` observations, consolidating information from three different Trash Wheels: Mr. Trash Wheel, Professor Trash Wheel, and Gwynnda. Key variables include `collection_month`, `collection_year`, `weight_tons` which is the weight of trash collected by each dumpster, and waste types like `cigarette_butts_collected` and `plastic_bags_collected`.
+The combined Trash Wheel dataset contains a total of `r nrow(combined_trash_wheel_data)` observations, consolidating information from three different Trash Wheels: Mr. Trash Wheel, Professor Trash Wheel, and Gwynnda. Key variables include collection_month, collection_year, weight_tons which is the weight of trash collected by each dumpster, and waste types like cigarette_butts_collected and plastic_bags_collected.
 
 Total weight of trash collected by Professor Trash Wheel
 
@@ -278,8 +278,7 @@ final_dataset <- final_dataset %>%
 write_csv(final_dataset, "./data/final_gbbo_dataset.csv")
 ```
 
-In the data cleaning process, I imported three datasets of the Great British Bake Off —bakers, bakes, and results while standardizing their column names using janitor::clean_names(). I separated the baker_name into distinct first and last names and modified specific values for consistency (changing "Jo" to "Joanne" in the bakes dataset). I skipped unnecessary rows in the results dataset and checked for completeness using anti_join() to identify missing matches across the datasets. The final dataset was created by merging the three datasets based on common columns and relocating the columns for clarity. Finally, I used write_csv() to export the cleaned and combined dataset as a CSV file named final_gbbo_dataset.csv in the data directory.
-The final dataset gives a comprehensive overview of the Great British Bake Off (GBBO) competition, combining individual baker details with their bakes and performance results. Important variables are like series, episode, baker and show_stopper are relocated in order to conduct smooth analysis on the consolidated dataset.
+In the data cleaning process, I imported three datasets of the Great British Bake Off —bakers, bakes, and results while standardizing their column names using janitor::clean_names(). I separated the baker_name into distinct first and last names and modified specific values for consistency (changing "Jo" to "Joanne" in the bakes dataset). I skipped unnecessary rows in the results dataset and checked for completeness using anti_join() to identify missing matches across the datasets. The final dataset was created by merging the three datasets based on common columns and relocating the columns for clarity. Finally, I used write_csv() to export the cleaned and combined dataset as a CSV file named final_gbbo_dataset.csv in the data directory. The final dataset gives a comprehensive overview of the Great British Bake Off (GBBO) competition, combining individual baker details with their bakes and performance results. Important variables are like series, episode, baker and show_stopper are relocated in order to conduct smooth analysis on the consolidated dataset.
 
 Creating a reader-friendly table for star baker/winner of each episode from S5 to S10.
 
