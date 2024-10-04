@@ -113,8 +113,7 @@ Reading and Cleaning the Mr. Trash Wheel sheet
 
 library(readxl)
 
-mr_trash_wheel_data <- read_excel("./data/202409 Trash Wheel Collection Data.xlsx",                           sheet = "Mr. Trash Wheel",range =  cell_cols("A:N"), 
-                        col_names = TRUE, skip = 1) %>%
+mr_trash_wheel_data <- read_excel("./data/202409 Trash Wheel Collection Data.xlsx", sheet = "Mr. Trash Wheel",range =  cell_cols("A:N"), col_names = TRUE, skip = 1) %>%
   janitor::clean_names() %>%
   rename(
     collection_month = month,
