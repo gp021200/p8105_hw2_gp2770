@@ -231,3 +231,107 @@ total_cigarette_butts_gwynnda_june_2022
 
 The total number of cigarette butts collected by Gwynnda in June of 2022 was 18120.
 
+# Problem 3
+
+Importing and cleaning the information about individual bakers, their bakes and their performances.
+
+```{r}
+
+bakers <- read_csv("./data/bakers.csv", na = c("NA", "",".")) %>% 
+  janitor::clean_names() %>% 
+  separate(col = baker_name, into = c("baker", "baker_last_name"), sep = " ")
+
+bakes <- read_csv("./data/bakes.csv", na = c("NA", "",".")) %>% 
+  janitor::clean_names() %>% 
+  mutate(baker = ifelse(baker == '"Jo"', "Joanne", baker))
+
+results <- read_csv("./data/results.csv", skip = 2, na = c("NA", "",".")) %>% 
+  janitor::clean_names()
+
+```
+
+Checking for completeness and correctness across datasets.
+
+```{r}
+
+missing_bakes = anti_join(bakers, bakes, 
+                              by = c("baker" = "baker", "series"))
+
+missing_results = anti_join(bakers, results, 
+                                by = c("baker" = "baker", "series"))
+
+missing_bakes_results = anti_join(bakes, results, 
+                                          by = c("baker", "series", "episode"))
+
+```
+
+Creating a single final dataset and exporting the results as a CSV.
+
+```{r}
+
+final_dataset = left_join(results, bakes, by = c("series", "episode", "baker")) %>% 
+                  left_join(bakers, by = c("series", "baker"))
+
+final_dataset <- final_dataset %>%
+  relocate(series, episode, baker, baker_last_name, baker_age, baker_occupation, hometown, signature_bake, technical, show_stopper, result)
+
+write_csv(final_dataset, "./data/final_gbbo_dataset.csv")
+```
+
+In the data cleaning process, I imported three datasets of the Great British Bake Off —bakers, bakes, and results while standardizing their column names using janitor::clean_names(). I separated the baker_name into distinct first and last names and modified specific values for consistency (changing "Jo" to "Joanne" in the bakes dataset). I skipped unnecessary rows in the results dataset and checked for completeness using anti_join() to identify missing matches across the datasets. The final dataset was created by merging the three datasets based on common columns and relocating the columns for clarity. Finally, I used write_csv() to export the cleaned and combined dataset as a CSV file named final_gbbo_dataset.csv in the data directory.
+The final dataset gives a comprehensive overview of the Great British Bake Off (GBBO) competition, combining individual baker details with their bakes and performance results. Important variables are like series, episode, baker and show_stopper are relocated in order to conduct smooth analysis on the consolidated dataset.
+
+Creating a reader-friendly table for star baker/winner of each episode from S5 to S10.
+
+```{r}
+
+star_bakers_or_winners <- final_dataset %>%
+  filter(series > 4) %>%  
+  select(series, episode, baker, result) %>%
+  filter(result %in% c("STAR BAKER", "WINNER")) %>%
+  arrange(series, episode) 
+
+star_bakers_or_winners
+```
+
+We can see predictability in Nadiya (in season 6) and Candice (in season 7) who won multiple star baker awards and were ultimately crowned the winner. However, in season 5, Nancy won the contest despite winning only one star baker award (as compared to Richard who won 5 star baker awards).
+
+Viewership Data
+
+```{r}
+
+viewers <- read_csv("./data/viewers.csv", na = c("NA", "",".")) %>% 
+  janitor::clean_names() %>% 
+  pivot_longer(
+    cols = series_1:series_10,
+    names_to = "series",
+    values_to = "viewers",
+    names_prefix = "series_"
+    ) %>% 
+    mutate(series = factor(series, levels = as.character(1:10))) %>% 
+    arrange(series) %>% 
+    relocate(series, episode)
+
+head(viewers, 10)
+```
+
+Average Viewership
+
+```{r}
+
+s1_average_viewership = viewers %>% 
+  filter(series == 1) %>% 
+  pull(viewers) %>% 
+  mean(na.rm = TRUE) 
+
+s5_average_viewership = viewers %>% 
+  filter(series == 5) %>% 
+  pull(viewers) %>% 
+  mean(na.rm = TRUE) 
+
+s1_average_viewership
+s5_average_viewership
+  
+```
+
+The average viewership is 2.77 for season 1 and 10.0393 for season 5.
